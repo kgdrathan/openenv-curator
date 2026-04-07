@@ -318,7 +318,9 @@ def compute_relevance(item: dict, profile: dict) -> float:
     # Tag match: how much of the user's interest space does this item cover?
     total_interest_weight = sum(interests.values())
     matched_weight = sum(interests.get(tag, 0.0) for tag in item_tags)
-    tag_score = matched_weight / total_interest_weight if total_interest_weight > 0 else 0.0
+    tag_score = (
+        matched_weight / total_interest_weight if total_interest_weight > 0 else 0.0
+    )
 
     # Source preference
     preferred = profile.get("preferred_sources", [])

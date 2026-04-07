@@ -30,7 +30,9 @@ IMAGE_NAME = os.getenv("IMAGE_NAME")
 API_KEY = os.getenv("HF_TOKEN") or os.getenv("API_KEY")
 
 API_BASE_URL = os.getenv("API_BASE_URL") or "https://router.huggingface.co/v1"
-MODEL_NAME = os.getenv("MODEL_NAME") or "Qwen/Qwen2.5-72B-Instruct"
+MODEL_NAME = os.getenv("MODEL_NAME") or "meta-llama/Llama-3.2-1B-Instruct"
+# API_BASE_URL = os.getenv("API_BASE_URL") or "https://openrouter.ai/api/v1"
+# MODEL_NAME = os.getenv("MODEL_NAME") or "z-ai/glm-4.5-air:free"
 TASK_NAME = os.getenv("CURATOR_TASK", "easy")
 BENCHMARK = "curator"
 TEMPERATURE = 0.3
@@ -185,23 +187,26 @@ def parse_action_from_response(text: str) -> Optional[Dict]:
 
 
 def get_model_action(
-    client: OpenAI, obs: Any, step: int, last_feedback: Optional[str]
+    client: OpenAI,
+    obs: Any,
+    step: int,
+    last_feedback: Optional[str],
+    messages: List[Dict[str, str]],
 ) -> Dict:
-    """Get action from LLM."""
+    """Get action from LLM, maintaining conversation history."""
     user_prompt = build_user_prompt(obs, step, last_feedback)
+    messages.append({"role": "user", "content": user_prompt})
 
     try:
         completion = client.chat.completions.create(
             model=MODEL_NAME,
-            messages=[
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": user_prompt},
-            ],
+            messages=messages,
             temperature=TEMPERATURE,
             max_tokens=MAX_TOKENS,
             stream=False,
         )
         text = (completion.choices[0].message.content or "").strip()
+        messages.append({"role": "assistant", "content": text})
         action = parse_action_from_response(text)
         if action and "action_type" in action:
             return action
@@ -217,28 +222,31 @@ def get_model_action(
 async def main() -> None:
     llm_client = OpenAI(base_url=API_BASE_URL, api_key=API_KEY)
 
-    env = await CuratorEnv.from_docker_image(IMAGE_NAME)
+    async with CuratorEnv(base_url="http://localhost:8000") as env:
+        rewards: List[float] = []
+        steps_taken = 0
+        score = 0.0
+        success = False
+        last_feedback: Optional[str] = None
 
-    rewards: List[float] = []
-    steps_taken = 0
-    score = 0.0
-    success = False
-    last_feedback: Optional[str] = None
+        log_start(task=TASK_NAME, env=BENCHMARK, model=MODEL_NAME)
 
-    log_start(task=TASK_NAME, env=BENCHMARK, model=MODEL_NAME)
-
-    try:
         result = await env.reset(task_id=TASK_NAME)
         obs = result.observation
 
         task_info = obs.task_info
         max_steps = task_info.max_steps if task_info else 10
+        messages: List[Dict[str, str]] = [
+            {"role": "system", "content": SYSTEM_PROMPT},
+        ]
 
         for step in range(1, max_steps + 1):
             if result.done:
                 break
 
-            action_dict = get_model_action(llm_client, obs, step, last_feedback)
+            action_dict = get_model_action(
+                llm_client, obs, step, last_feedback, messages
+            )
             action = CuratorAction(**action_dict)
 
             result = await env.step(action)
@@ -252,7 +260,12 @@ async def main() -> None:
             steps_taken = step
 
             # Summarize action for logging
-            action_summary = f"{action.action_type}({len(action.item_ids)}items)"
+            if action.action_type == "categorize" and action.categories:
+                action_summary = f"categorize({len(action.categories)}items)"
+            elif action.action_type == "rank" and action.rankings:
+                action_summary = f"rank({len(action.rankings)}items)"
+            else:
+                action_summary = f"{action.action_type}({len(action.item_ids)}items)"
             log_step(
                 step=step, action=action_summary, reward=reward, done=done, error=error
             )
@@ -271,11 +284,6 @@ async def main() -> None:
         score = min(max(score, 0.0), 1.0)
         success = score >= SUCCESS_SCORE_THRESHOLD
 
-    finally:
-        try:
-            await env.close()
-        except Exception as e:
-            print(f"[DEBUG] env.close() error: {e}", flush=True)
         log_end(success=success, steps=steps_taken, score=score, rewards=rewards)
 
 

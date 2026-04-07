@@ -204,9 +204,7 @@ class CuratorEnvironment(Environment):
             explanation=f"Filtered {len(valid_ids)} items. Quality={quality:.3f}",
         )
 
-    def _handle_categorize(
-        self, action: CuratorAction
-    ) -> tuple[float, ActionFeedback]:
+    def _handle_categorize(self, action: CuratorAction) -> tuple[float, ActionFeedback]:
         """Categorize items. Reward for matching relevance-derived categories."""
         if not action.categories:
             return 0.0, ActionFeedback(explanation="No categories provided.")
@@ -250,9 +248,7 @@ class CuratorEnvironment(Environment):
             explanation=f"Ranked {len(valid_ranking)} items. NDCG@{k}={quality:.3f}",
         )
 
-    def _handle_recommend(
-        self, action: CuratorAction
-    ) -> tuple[float, ActionFeedback]:
+    def _handle_recommend(self, action: CuratorAction) -> tuple[float, ActionFeedback]:
         """Final recommendation. Triggers episode end with composite score."""
         rec_ids = action.item_ids
         k = self._task_config["recommend_k"]

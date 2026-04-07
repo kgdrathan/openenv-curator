@@ -62,6 +62,28 @@ Each task includes an embedded user profile that defines what "relevant" means f
 score = 0.35 * NDCG@k + 0.25 * Precision@k + 0.20 * Recall@k + 0.10 * Category accuracy + 0.10 * Source diversity
 ```
 
+## Baseline Scores
+
+Scores measured using the `CuratorEnv` client against a local server, averaged over 3 seeds (42, 123, 456).
+
+**Heuristic baseline** (filter low-community-score items, rank by score, recommend top-k):
+
+| Task | Avg Score | Min | Max |
+|------|-----------|-----|-----|
+| easy | 0.231 | 0.158 | 0.267 |
+| medium | 0.368 | 0.274 | 0.431 |
+| hard | 0.542 | 0.484 | 0.626 |
+
+**Random baseline** (recommend k random items, no processing):
+
+| Task | Avg Score | Min | Max |
+|------|-----------|-----|-----|
+| easy | 0.211 | 0.145 | 0.294 |
+| medium | 0.177 | 0.144 | 0.225 |
+| hard | 0.331 | 0.286 | 0.415 |
+
+An LLM agent that understands user interest profiles should significantly outperform the heuristic baseline by leveraging tag/topic matching rather than raw community score.
+
 ## Data
 
 All content is real data fetched from free public APIs (no auth needed), cached as static JSON — no API calls at runtime:
