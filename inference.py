@@ -31,9 +31,7 @@ API_KEY = os.getenv("HF_TOKEN") or os.getenv("API_KEY")
 
 API_BASE_URL = os.getenv("API_BASE_URL") or "https://router.huggingface.co/v1"
 MODEL_NAME = os.getenv("MODEL_NAME") or "meta-llama/Llama-3.2-1B-Instruct"
-# API_BASE_URL = os.getenv("API_BASE_URL") or "https://openrouter.ai/api/v1"
-# MODEL_NAME = os.getenv("MODEL_NAME") or "z-ai/glm-4.5-air:free"
-TASK_NAME = os.getenv("CURATOR_TASK", "easy")
+TASK_NAME = os.getenv("CURATOR_TASK", "hard")
 BENCHMARK = "curator"
 TEMPERATURE = 0.3
 MAX_TOKENS = 2000
@@ -69,9 +67,7 @@ def log_start(task: str, env: str, model: str) -> None:
     print(f"[START] task={task} env={env} model={model}", flush=True)
 
 
-def log_step(
-    step: int, action: str, reward: float, done: bool, error: Optional[str]
-) -> None:
+def log_step(step: int, action: str, reward: float, done: bool, error: Optional[str]) -> None:
     error_val = error if error else "null"
     done_val = str(done).lower()
     print(
@@ -103,10 +99,7 @@ def format_items_for_prompt(items: List[Dict], max_items: int = 30) -> str:
 
 def format_profile_for_prompt(profile: Dict) -> str:
     """Format user profile for the LLM prompt."""
-    interests = ", ".join(
-        f"{k}={v:.1f}"
-        for k, v in sorted(profile.get("interests", {}).items(), key=lambda x: -x[1])
-    )
+    interests = ", ".join(f"{k}={v:.1f}" for k, v in sorted(profile.get("interests", {}).items(), key=lambda x: -x[1]))
     sources = ", ".join(profile.get("preferred_sources", [])) or "no preference"
     history = profile.get("read_history", [])
     return (
@@ -120,14 +113,8 @@ def format_profile_for_prompt(profile: Dict) -> str:
 
 def build_user_prompt(obs: Any, step: int, last_feedback: Optional[str]) -> str:
     """Build the user prompt from current observation."""
-    items = [
-        item.model_dump() if hasattr(item, "model_dump") else item for item in obs.items
-    ]
-    profile = (
-        obs.user_profile.model_dump()
-        if hasattr(obs.user_profile, "model_dump")
-        else obs.user_profile
-    )
+    items = [item.model_dump() if hasattr(item, "model_dump") else item for item in obs.items]
+    profile = obs.user_profile.model_dump() if hasattr(obs.user_profile, "model_dump") else obs.user_profile
 
     ti = obs.task_info
     prompt = f"""Step {step}/{ti.max_steps}. You must recommend {ti.recommend_k} items.
@@ -143,9 +130,7 @@ Items in pool:
         prompt += f"\nLast action feedback: {last_feedback}\n"
 
     if step >= ti.max_steps - 1:
-        prompt += (
-            "\nWARNING: This is your last step. You MUST use 'recommend' action now.\n"
-        )
+        prompt += "\nWARNING: This is your last step. You MUST use 'recommend' action now.\n"
     elif step >= ti.max_steps - 2:
         prompt += "\nOnly 2 steps left. Consider recommending soon.\n"
 
@@ -244,9 +229,7 @@ async def main() -> None:
             if result.done:
                 break
 
-            action_dict = get_model_action(
-                llm_client, obs, step, last_feedback, messages
-            )
+            action_dict = get_model_action(llm_client, obs, step, last_feedback, messages)
             action = CuratorAction(**action_dict)
 
             result = await env.step(action)
@@ -266,9 +249,7 @@ async def main() -> None:
                 action_summary = f"rank({len(action.rankings)}items)"
             else:
                 action_summary = f"{action.action_type}({len(action.item_ids)}items)"
-            log_step(
-                step=step, action=action_summary, reward=reward, done=done, error=error
-            )
+            log_step(step=step, action=action_summary, reward=reward, done=done, error=error)
 
             # Capture feedback for next prompt
             if obs.feedback:
