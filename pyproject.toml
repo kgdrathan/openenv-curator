@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "openenv-curator"
+version = "0.1.0"
+description = "Curator: Personalized content curation environment for OpenEnv"
+requires-python = ">=3.10"
+dependencies = [
+    "openenv-core[core]>=0.2.2",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "pytest-cov>=4.0.0",
+]
+inference = [
+    "openai>=1.0",
+]
+
+[project.scripts]
+server = "curator.server.app:main"
+
+[tool.setuptools]
+include-package-data = true
+packages = ["curator", "curator.server"]
+package-dir = { "curator" = ".", "curator.server" = "server" }
+
+[dependency-groups]
+dev = [
+    "ruff>=0.15.9",
+]

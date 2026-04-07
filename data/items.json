@@ -1,0 +1,2841 @@
+[
+  {
+    "id": "hn_47672818",
+    "source": "hackernews",
+    "title": "Are We Idiocracy Yet?",
+    "summary": "Are We Idiocracy Yet?",
+    "tags": [
+      "general"
+    ],
+    "url": "https://idiocracy.wtf/",
+    "author": "jdiiufccuskal",
+    "score": 287,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47673005",
+    "source": "hackernews",
+    "title": "We found an undocumented bug in the Apollo 11 guidance computer code",
+    "summary": "We found an undocumented bug in the Apollo 11 guidance computer code",
+    "tags": [
+      "general"
+    ],
+    "url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
+    "author": "henrygarner",
+    "score": 59,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47673541",
+    "source": "hackernews",
+    "title": "LLM may be standardizing human expression \u2013 and subtly influencing how we think",
+    "summary": "LLM may be standardizing human expression \u2013 and subtly influencing how we think",
+    "tags": [
+      "nlp"
+    ],
+    "url": "https://dornsife.usc.edu/news/stories/ai-may-be-making-us-think-and-write-more-alike/",
+    "author": "giuliomagnifico",
+    "score": 16,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47673360",
+    "source": "hackernews",
+    "title": "Show HN: Brutalist Concrete Laptop Stand (2024)",
+    "summary": "Show HN: Brutalist Concrete Laptop Stand (2024)",
+    "tags": [
+      "general"
+    ],
+    "url": "https://sam-burns.com/posts/concrete-laptop-stand/",
+    "author": "sam-bee",
+    "score": 18,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47672295",
+    "source": "hackernews",
+    "title": "Every GPU That Mattered",
+    "summary": "Every GPU That Mattered",
+    "tags": [
+      "general"
+    ],
+    "url": "https://sheets.works/data-viz/every-gpu",
+    "author": "jonbaer",
+    "score": 125,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47672318",
+    "source": "hackernews",
+    "title": "Blackholing My Email",
+    "summary": "Blackholing My Email",
+    "tags": [
+      "ai"
+    ],
+    "url": "https://www.johnsto.co.uk/blog/blackholing-my-email/",
+    "author": "semyonsh",
+    "score": 37,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47672884",
+    "source": "hackernews",
+    "title": "Identify a London Underground Line just by listening to it",
+    "summary": "Identify a London Underground Line just by listening to it",
+    "tags": [
+      "general"
+    ],
+    "url": "https://tubesoundquiz.com/",
+    "author": "nelson687",
+    "score": 37,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47614528",
+    "source": "hackernews",
+    "title": "My Experience as a Rice Farmer",
+    "summary": "My Experience as a Rice Farmer",
+    "tags": [
+      "general"
+    ],
+    "url": "https://xd009642.github.io/2026/04/01/My-Experience-as-a-Rice-Farmer.html",
+    "author": "surprisetalk",
+    "score": 199,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47672778",
+    "source": "hackernews",
+    "title": "Breaking the console: a brief history of video game security",
+    "summary": "Breaking the console: a brief history of video game security",
+    "tags": [
+      "security"
+    ],
+    "url": "https://sergioprado.blog/breaking-the-console-a-brief-history-of-video-game-security/",
+    "author": "sprado",
+    "score": 20,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47641472",
+    "source": "hackernews",
+    "title": "Floating point from scratch: Hard Mode",
+    "summary": "Floating point from scratch: Hard Mode",
+    "tags": [
+      "general"
+    ],
+    "url": "https://essenceia.github.io/projects/floating_dragon/",
+    "author": "random__duck",
+    "score": 26,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47627217",
+    "source": "hackernews",
+    "title": "Running Out of Disk Space in Production",
+    "summary": "Running Out of Disk Space in Production",
+    "tags": [
+      "startup"
+    ],
+    "url": "https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html",
+    "author": "romes",
+    "score": 15,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47666024",
+    "source": "hackernews",
+    "title": "Show HN: Ghost Pepper \u2013 Local hold-to-talk speech-to-text for macOS",
+    "summary": "Show HN: Ghost Pepper \u2013 Local hold-to-talk speech-to-text for macOS",
+    "tags": [
+      "systems"
+    ],
+    "url": "https://github.com/matthartman/ghost-pepper",
+    "author": "MattHart88",
+    "score": 409,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47673072",
+    "source": "hackernews",
+    "title": "Germany Power Prices Turn Deeply Negative on Renewables Surge",
+    "summary": "Germany Power Prices Turn Deeply Negative on Renewables Surge",
+    "tags": [
+      "general"
+    ],
+    "url": "https://www.bloomberg.com/news/articles/2026-04-07/germany-power-prices-turn-deeply-negative-on-renewables-surge",
+    "author": "rustoo",
+    "score": 45,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47659135",
+    "source": "hackernews",
+    "title": "Sam Altman may control our future \u2013 can he be trusted?",
+    "summary": "Sam Altman may control our future \u2013 can he be trusted?",
+    "tags": [
+      "rust"
+    ],
+    "url": "https://www.newyorker.com/magazine/2026/04/13/sam-altman-may-control-our-future-can-he-be-trusted",
+    "author": "adrianhon",
+    "score": 1523,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47660925",
+    "source": "hackernews",
+    "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+    "summary": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+    "tags": [
+      "general"
+    ],
+    "url": "https://github.com/anthropics/claude-code/issues/42796",
+    "author": "StanAngeloff",
+    "score": 1153,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47626242",
+    "source": "hackernews",
+    "title": "Second Revision of 6502 Laptop",
+    "summary": "Second Revision of 6502 Laptop",
+    "tags": [
+      "general"
+    ],
+    "url": "https://codeberg.org/TechPaula/LT6502b",
+    "author": "uticus",
+    "score": 65,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47669337",
+    "source": "hackernews",
+    "title": "Solod \u2013 A subset of Go that translates to C",
+    "summary": "Solod \u2013 A subset of Go that translates to C",
+    "tags": [
+      "go"
+    ],
+    "url": "https://github.com/solod-dev/solod",
+    "author": "TheWiggles",
+    "score": 145,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47663147",
+    "source": "hackernews",
+    "title": "Launch HN: Freestyle \u2013 Sandboxes for Coding Agents",
+    "summary": "Launch HN: Freestyle \u2013 Sandboxes for Coding Agents",
+    "tags": [
+      "general"
+    ],
+    "url": "https://www.freestyle.sh/",
+    "author": "benswerd",
+    "score": 291,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47662234",
+    "source": "hackernews",
+    "title": "A cryptography engineer's perspective on quantum computing timelines",
+    "summary": "A cryptography engineer's perspective on quantum computing timelines",
+    "tags": [
+      "security"
+    ],
+    "url": "https://words.filippo.io/crqc-timeline/",
+    "author": "thadt",
+    "score": 499,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47667321",
+    "source": "hackernews",
+    "title": "Peptides: where to begin?",
+    "summary": "Peptides: where to begin?",
+    "tags": [
+      "general"
+    ],
+    "url": "https://www.science.org/content/blog-post/ah-peptides-where-begin",
+    "author": "A_D_E_P_T",
+    "score": 190,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47638498",
+    "source": "hackernews",
+    "title": "Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11",
+    "summary": "Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11",
+    "tags": [
+      "general"
+    ],
+    "url": "https://adashape.com",
+    "author": "fsloth",
+    "score": 19,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47641528",
+    "source": "hackernews",
+    "title": "Apollo Guidance Computer restoration videos",
+    "summary": "Apollo Guidance Computer restoration videos",
+    "tags": [
+      "systems"
+    ],
+    "url": "https://www.curiousmarc.com/space/apollo-guidance-computer",
+    "author": "mariuz",
+    "score": 69,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47660954",
+    "source": "hackernews",
+    "title": "German police name alleged leaders of GandCrab and REvil ransomware groups",
+    "summary": "German police name alleged leaders of GandCrab and REvil ransomware groups",
+    "tags": [
+      "general"
+    ],
+    "url": "https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/",
+    "author": "Bender",
+    "score": 311,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47662945",
+    "source": "hackernews",
+    "title": "Show HN: GovAuctions lets you browse government auctions at once",
+    "summary": "Show HN: GovAuctions lets you browse government auctions at once",
+    "tags": [
+      "general"
+    ],
+    "url": "https://www.govauctions.app/",
+    "author": "player_piano",
+    "score": 290,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47662596",
+    "source": "hackernews",
+    "title": "AI singer now occupies eleven spots on iTunes singles chart",
+    "summary": "AI singer now occupies eleven spots on iTunes singles chart",
+    "tags": [
+      "ai"
+    ],
+    "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
+    "author": "flinner",
+    "score": 207,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47660286",
+    "source": "hackernews",
+    "title": "What being ripped off taught me",
+    "summary": "What being ripped off taught me",
+    "tags": [
+      "general"
+    ],
+    "url": "https://belief.horse/notes/what-being-ripped-off-taught-me/",
+    "author": "doctorhandshake",
+    "score": 422,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47660853",
+    "source": "hackernews",
+    "title": "Book review: There Is No Antimemetics Division",
+    "summary": "Book review: There Is No Antimemetics Division",
+    "tags": [
+      "general"
+    ],
+    "url": "https://www.stephendiehl.com/posts/no_antimimetics/",
+    "author": "ibobev",
+    "score": 264,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47636579",
+    "source": "hackernews",
+    "title": "Show HN: Anos \u2013 a hand-written ~100KiB microkernel for x86-64 and RISC-V",
+    "summary": "Show HN: Anos \u2013 a hand-written ~100KiB microkernel for x86-64 and RISC-V",
+    "tags": [
+      "systems"
+    ],
+    "url": "https://github.com/roscopeco/anos",
+    "author": "noone_youknow",
+    "score": 94,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47637010",
+    "source": "hackernews",
+    "title": "The Last Quiet Thing",
+    "summary": "The Last Quiet Thing",
+    "tags": [
+      "general"
+    ],
+    "url": "https://www.terrygodier.com/the-last-quiet-thing",
+    "author": "coinfused",
+    "score": 251,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47672268",
+    "source": "hackernews",
+    "title": "Iran Is Not Blocking the Strait of Hormuz. It's Running a Toll Booth",
+    "summary": "Iran Is Not Blocking the Strait of Hormuz. It's Running a Toll Booth",
+    "tags": [
+      "ai"
+    ],
+    "url": "https://www.shatterbelt.co/articles/iran-hormuz-toll-booth",
+    "author": "realpolitik9",
+    "score": 5,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47667672",
+    "source": "hackernews",
+    "title": "Show HN: Hippo, biologically inspired memory for AI agents",
+    "summary": "Show HN: Hippo, biologically inspired memory for AI agents",
+    "tags": [
+      "ai"
+    ],
+    "url": "https://github.com/kitfunso/hippo-memory",
+    "author": "kitfunso",
+    "score": 109,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47662116",
+    "source": "hackernews",
+    "title": "Sky \u2013 an Elm-inspired language that compiles to Go",
+    "summary": "Sky \u2013 an Elm-inspired language that compiles to Go",
+    "tags": [
+      "go"
+    ],
+    "url": "https://github.com/anzellai/sky",
+    "author": "whalesalad",
+    "score": 173,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47667717",
+    "source": "hackernews",
+    "title": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+    "summary": "Anthropic expands partnership with Google and Broadcom for next-gen compute",
+    "tags": [
+      "general"
+    ],
+    "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+    "author": "l1n",
+    "score": 256,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47627998",
+    "source": "hackernews",
+    "title": "VOID: Video Object and Interaction Deletion",
+    "summary": "VOID: Video Object and Interaction Deletion",
+    "tags": [
+      "general"
+    ],
+    "url": "https://github.com/Netflix/void-model",
+    "author": "bobsoap",
+    "score": 166,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47637828",
+    "source": "hackernews",
+    "title": "Show HN: Tusk for macOS and Gnome",
+    "summary": "Show HN: Tusk for macOS and Gnome",
+    "tags": [
+      "systems"
+    ],
+    "url": "https://shapemachine.xyz/tusk/",
+    "author": "factorialboy",
+    "score": 104,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47669749",
+    "source": "hackernews",
+    "title": "Dear Heroku: Uhh What's Going On?",
+    "summary": "Dear Heroku: Uhh What's Going On?",
+    "tags": [
+      "general"
+    ],
+    "url": "https://judoscale.com/blog/heroku-whats-going-on",
+    "author": "crcastle",
+    "score": 81,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47673576",
+    "source": "hackernews",
+    "title": "Why your new computer is SLOWER than your OLD computer [video]",
+    "summary": "Why your new computer is SLOWER than your OLD computer [video]",
+    "tags": [
+      "general"
+    ],
+    "url": "https://www.youtube.com/watch?v=t992ul_IKtc",
+    "author": "tiernano",
+    "score": 3,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47664186",
+    "source": "hackernews",
+    "title": "Battle for Wesnoth: open-source, turn-based strategy game",
+    "summary": "Battle for Wesnoth: open-source, turn-based strategy game",
+    "tags": [
+      "open-source"
+    ],
+    "url": "https://www.wesnoth.org",
+    "author": "akyuu",
+    "score": 501,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47642125",
+    "source": "hackernews",
+    "title": "Linux extreme performance H1 load generator",
+    "summary": "Linux extreme performance H1 load generator",
+    "tags": [
+      "systems"
+    ],
+    "url": "https://www.gcannon.org/",
+    "author": "MDA2AV",
+    "score": 22,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47661065",
+    "source": "hackernews",
+    "title": "The team behind a pro-Iran, Lego-themed viral-video campaign",
+    "summary": "The team behind a pro-Iran, Lego-themed viral-video campaign",
+    "tags": [
+      "ai"
+    ],
+    "url": "https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign",
+    "author": "tantalor",
+    "score": 140,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47671527",
+    "source": "hackernews",
+    "title": "Some iPhone Apps Receive Mysterious Update 'From Apple'",
+    "summary": "Some iPhone Apps Receive Mysterious Update 'From Apple'",
+    "tags": [
+      "general"
+    ],
+    "url": "https://www.macrumors.com/2026/04/06/iphone-apps-from-apple-update/",
+    "author": "tosh",
+    "score": 63,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47664912",
+    "source": "hackernews",
+    "title": "The cult of vibe coding is dogfooding run amok",
+    "summary": "The cult of vibe coding is dogfooding run amok",
+    "tags": [
+      "general"
+    ],
+    "url": "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane",
+    "author": "drob518",
+    "score": 572,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47665685",
+    "source": "hackernews",
+    "title": "Show HN: TTF-DOOM \u2013 A raycaster running inside TrueType font hinting",
+    "summary": "Show HN: TTF-DOOM \u2013 A raycaster running inside TrueType font hinting",
+    "tags": [
+      "general"
+    ],
+    "url": "https://github.com/4RH1T3CT0R7/ttf-doom",
+    "author": "4RH1T3CT0R",
+    "score": 57,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47647397",
+    "source": "hackernews",
+    "title": "Build web apps for smart glasses",
+    "summary": "Build web apps for smart glasses",
+    "tags": [
+      "web"
+    ],
+    "url": "https://hub.evenrealities.com/docs/getting-started/overview",
+    "author": "mozz100",
+    "score": 8,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47665245",
+    "source": "hackernews",
+    "title": "Agent Reading Test",
+    "summary": "Agent Reading Test",
+    "tags": [
+      "general"
+    ],
+    "url": "https://agentreadingtest.com",
+    "author": "kaycebasques",
+    "score": 64,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47668727",
+    "source": "hackernews",
+    "title": "After 20 years I turned off Google Adsense for my websites (2025)",
+    "summary": "After 20 years I turned off Google Adsense for my websites (2025)",
+    "tags": [
+      "web"
+    ],
+    "url": "https://blog.ericgoldman.org/archives/2025/06/after-20-years-i-turned-off-google-adsense-for-my-websites.htm",
+    "author": "datadrivenangel",
+    "score": 198,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47627361",
+    "source": "hackernews",
+    "title": "Graph-go \u2013 zero config, full visibility",
+    "summary": "Graph-go \u2013 zero config, full visibility",
+    "tags": [
+      "general"
+    ],
+    "url": "https://github.com/guilherme-grimm/graph-go",
+    "author": "devGrimm",
+    "score": 26,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47673208",
+    "source": "hackernews",
+    "title": "The Hacker News Tarpit",
+    "summary": "The Hacker News Tarpit",
+    "tags": [
+      "general"
+    ],
+    "url": "https://www.joanwestenberg.com/the-hacker-news-tarpit/",
+    "author": "latexr",
+    "score": 4,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47665207",
+    "source": "hackernews",
+    "title": "SOM: A minimal Smalltalk for teaching of and research on Virtual Machines",
+    "summary": "SOM: A minimal Smalltalk for teaching of and research on Virtual Machines",
+    "tags": [
+      "general"
+    ],
+    "url": "http://som-st.github.io/",
+    "author": "tosh",
+    "score": 51,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47673182",
+    "source": "hackernews",
+    "title": "Health benefits of Paris climate goals could save lives by 2040",
+    "summary": "Health benefits of Paris climate goals could save lives by 2040",
+    "tags": [
+      "general"
+    ],
+    "url": "https://www.carbonbrief.org/guest-post-health-benefits-of-paris-climate-goals-could-save-millions-of-lives-by-2040/",
+    "author": "lentoutcry",
+    "score": 4,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47636937",
+    "source": "hackernews",
+    "title": "Eighteen Years of Greytrapping \u2013 Is the Weirdness Finally Paying Off?",
+    "summary": "Eighteen Years of Greytrapping \u2013 Is the Weirdness Finally Paying Off?",
+    "tags": [
+      "general"
+    ],
+    "url": "https://nxdomain.no/~peter/eighteen_years_of_greytrapping.html",
+    "author": "jruohonen",
+    "score": 77,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47658146",
+    "source": "hackernews",
+    "title": "France pulls last gold held in US",
+    "summary": "France pulls last gold held in US",
+    "tags": [
+      "general"
+    ],
+    "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
+    "author": "teleforce",
+    "score": 593,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47664205",
+    "source": "hackernews",
+    "title": "Adobe modifies hosts file to detect whether Creative Cloud is installed",
+    "summary": "Adobe modifies hosts file to detect whether Creative Cloud is installed",
+    "tags": [
+      "systems",
+      "cloud"
+    ],
+    "url": "https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/",
+    "author": "rglullis",
+    "score": 311,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47655408",
+    "source": "hackernews",
+    "title": "Show HN: I built a tiny LLM to demystify how language models work",
+    "summary": "Show HN: I built a tiny LLM to demystify how language models work",
+    "tags": [
+      "nlp"
+    ],
+    "url": "https://github.com/arman-bd/guppylm",
+    "author": "armanified",
+    "score": 876,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47637116",
+    "source": "hackernews",
+    "title": "Signals, the push-pull based algorithm",
+    "summary": "Signals, the push-pull based algorithm",
+    "tags": [
+      "general"
+    ],
+    "url": "https://willybrauner.com/journal/signal-the-push-pull-based-algorithm",
+    "author": "mpweiher",
+    "score": 162,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47636456",
+    "source": "hackernews",
+    "title": "Sheets: Terminal based spreadsheet tool",
+    "summary": "Sheets: Terminal based spreadsheet tool",
+    "tags": [
+      "general"
+    ],
+    "url": "https://github.com/maaslalani/sheets",
+    "author": "_____k",
+    "score": 196,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47651703",
+    "source": "hackernews",
+    "title": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+    "summary": "Microsoft hasn't had a coherent GUI strategy since Petzold",
+    "tags": [
+      "systems"
+    ],
+    "url": "https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/",
+    "author": "naves",
+    "score": 794,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "hn_47652007",
+    "source": "hackernews",
+    "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+    "summary": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+    "tags": [
+      "ai"
+    ],
+    "url": "https://github.com/fikrikarim/parlor",
+    "author": "karimf",
+    "score": 275,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "arxiv_2604_04932v1",
+    "source": "arxiv",
+    "title": "Beyond the Final Actor: Modeling the Dual Roles of Creator and Editor for Fine-Grained LLM-Generated Text Detection",
+    "summary": "The misuse of large language models (LLMs) requires precise detection of synthetic text. Existing works mainly follow binary or ternary classification settings, which can only distinguish pure human/LLM text or collaborative text at best. This remains insufficient for the nuanced regulation, as the ",
+    "tags": [
+      "ai",
+      "nlp"
+    ],
+    "url": "http://arxiv.org/abs/2604.04932v1",
+    "author": "Yang Li",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04930v1",
+    "source": "arxiv",
+    "title": "Early Stopping for Large Reasoning Models via Confidence Dynamics",
+    "summary": "Large reasoning models rely on long chain-of-thought generation to solve complex problems, but extended reasoning often incurs substantial computational cost and can even degrade performance due to overthinking. A key challenge is determining when the model should stop reasoning and produce the fina",
+    "tags": [
+      "ai",
+      "systems"
+    ],
+    "url": "http://arxiv.org/abs/2604.04930v1",
+    "author": "Parsa Hosseini",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04924v1",
+    "source": "arxiv",
+    "title": "Your Pre-trained Diffusion Model Secretly Knows Restoration",
+    "summary": "Pre-trained diffusion models have enabled significant advancements in All-in-One Restoration (AiOR), offering improved perceptual quality and generalization. However, diffusion-based restoration methods primarily rely on fine-tuning or Control-Net style modules to leverage the pre-trained diffusion ",
+    "tags": [
+      "ai",
+      "data",
+      "cv"
+    ],
+    "url": "http://arxiv.org/abs/2604.04924v1",
+    "author": "Sudarshan Rajagopalan",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04923v1",
+    "source": "arxiv",
+    "title": "Stratifying Reinforcement Learning with Signal Temporal Logic",
+    "summary": "In this paper, we develop a stratification-based semantics for Signal Temporal Logic (STL) in which each atomic predicate is interpreted as a membership test in a stratified space. This perspective reveals a novel correspondence principle between stratification theory and STL, showing that most STL ",
+    "tags": [
+      "systems"
+    ],
+    "url": "http://arxiv.org/abs/2604.04923v1",
+    "author": "Justin Curry",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04921v1",
+    "source": "arxiv",
+    "title": "TriAttention: Efficient Long Reasoning with Trigonometric KV Compression",
+    "summary": "Extended reasoning in large language models (LLMs) creates severe KV cache memory bottlenecks. Leading KV cache compression methods estimate KV importance using attention scores from recent post-RoPE queries. However, queries rotate with position during RoPE, making representative queries very few, ",
+    "tags": [
+      "nlp",
+      "systems"
+    ],
+    "url": "http://arxiv.org/abs/2604.04921v1",
+    "author": "Weian Mao",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04920v1",
+    "source": "arxiv",
+    "title": "PINNs in PDE Constrained Optimal Control Problems: Direct vs Indirect Methods",
+    "summary": "We study physics-informed neural networks (PINNs) as numerical tools for the optimal control of semilinear partial differential equations. We first recall the classical direct and indirect viewpoints for optimal control of PDEs, and then present two PINN formulations: a direct formulation based on m",
+    "tags": [
+      "ai"
+    ],
+    "url": "http://arxiv.org/abs/2604.04920v1",
+    "author": "Zhen Zhang",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04917v1",
+    "source": "arxiv",
+    "title": "Vero: An Open RL Recipe for General Visual Reasoning",
+    "summary": "What does it take to build a visual reasoner that works across charts, science, spatial understanding, and open-ended tasks? The strongest vision-language models (VLMs) show such broad visual reasoning is within reach, but the recipe behind them remains unclear, locked behind proprietary reinforceme",
+    "tags": [
+      "ai",
+      "nlp",
+      "systems",
+      "open-source"
+    ],
+    "url": "http://arxiv.org/abs/2604.04917v1",
+    "author": "Gabriel Sarch",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04916v1",
+    "source": "arxiv",
+    "title": "Empowering Power Outage Prediction with Spatially Aware Hybrid Graph Neural Networks and Contrastive Learning",
+    "summary": "Extreme weather events, such as severe storms, hurricanes, snowstorms, and ice storms, which are exacerbated by climate change, frequently cause widespread power outages. These outages halt industrial operations, impact communities, damage critical infrastructure, profoundly disrupt economies, and h",
+    "tags": [
+      "ai",
+      "systems"
+    ],
+    "url": "http://arxiv.org/abs/2604.04916v1",
+    "author": "Xuyang Shen",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04914v1",
+    "source": "arxiv",
+    "title": "Analyzing Symbolic Properties for DRL Agents in Systems and Networking",
+    "summary": "Deep reinforcement learning (DRL) has shown remarkable performance on complex control problems in systems and networking, including adaptive video streaming, wireless resource management, and congestion control. For safe deployment, however, it is critical to reason about how agents behave across th",
+    "tags": [
+      "systems",
+      "open-source"
+    ],
+    "url": "http://arxiv.org/abs/2604.04914v1",
+    "author": "Mohammad Zangooei",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04908v1",
+    "source": "arxiv",
+    "title": "HI-MoE: Hierarchical Instance-Conditioned Mixture-of-Experts for Object Detection",
+    "summary": "Mixture-of-Experts (MoE) architectures enable conditional computation by activating only a subset of model parameters for each input. Although sparse routing has been highly effective in language models and has also shown promise in vision, most vision MoE methods operate at the image or patch level",
+    "tags": [
+      "nlp",
+      "systems",
+      "cv"
+    ],
+    "url": "http://arxiv.org/abs/2604.04908v1",
+    "author": "Vadim Vashkelis",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04906v1",
+    "source": "arxiv",
+    "title": "How AI Aggregation Affects Knowledge",
+    "summary": "Artificial intelligence (AI) changes social learning when aggregated outputs become training data for future predictions. To study this, we extend the DeGroot model by introducing an AI aggregator that trains on population beliefs and feeds synthesized signals back to agents. We define the learning ",
+    "tags": [
+      "ai",
+      "data"
+    ],
+    "url": "http://arxiv.org/abs/2604.04906v1",
+    "author": "Daron Acemoglu",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04902v1",
+    "source": "arxiv",
+    "title": "Are Latent Reasoning Models Easily Interpretable?",
+    "summary": "Latent reasoning models (LRMs) have attracted significant research interest due to their low inference cost (relative to explicit reasoning models) and theoretical ability to explore multiple reasoning paths in parallel. However, these benefits come at the cost of reduced interpretability: LRMs are ",
+    "tags": [
+      "systems"
+    ],
+    "url": "http://arxiv.org/abs/2604.04902v1",
+    "author": "Connor Dilgren",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04901v1",
+    "source": "arxiv",
+    "title": "FileGram: Grounding Agent Personalization in File-System Behavioral Traces",
+    "summary": "Coworking AI agents operating within local file systems are rapidly emerging as a paradigm in human-AI interaction; however, effective personalization remains limited by severe data constraints, as strict privacy barriers and the difficulty of jointly collecting multimodal real-world traces prevent ",
+    "tags": [
+      "ai",
+      "systems",
+      "security",
+      "data"
+    ],
+    "url": "http://arxiv.org/abs/2604.04901v1",
+    "author": "Shuai Liu",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04898v1",
+    "source": "arxiv",
+    "title": "QED-Nano: Teaching a Tiny Model to Prove Hard Theorems",
+    "summary": "Proprietary AI systems have recently demonstrated impressive capabilities on complex proof-based problems, with gold-level performance reported at the 2025 International Mathematical Olympiad (IMO). However, the training pipelines behind these systems remain largely undisclosed, and their reliance o",
+    "tags": [
+      "ai",
+      "systems",
+      "python",
+      "data"
+    ],
+    "url": "http://arxiv.org/abs/2604.04898v1",
+    "author": " LM-Provers",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04895v1",
+    "source": "arxiv",
+    "title": "Agentic Federated Learning: The Future of Distributed Training Orchestration",
+    "summary": "Although Federated Learning (FL) promises privacy and distributed collaboration, its effectiveness in real-world scenarios is often hampered by the stochastic heterogeneity of clients and unpredictable system dynamics. Existing static optimization approaches fail to adapt to these fluctuations, resu",
+    "tags": [
+      "ai",
+      "systems",
+      "security",
+      "mobile"
+    ],
+    "url": "http://arxiv.org/abs/2604.04895v1",
+    "author": "Rafael O. Jarczewski",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04894v1",
+    "source": "arxiv",
+    "title": "Rethinking Exploration in RLVR: From Entropy Regularization to Refinement via Bidirectional Entropy Modulation",
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) has significantly advanced the reasoning capabilities of large language models (LLMs). However, it faces a fundamental limitation termed \\textit{restricted exploration}, where the policy rapidly converges to a narrow set of solutions. While entro",
+    "tags": [
+      "nlp"
+    ],
+    "url": "http://arxiv.org/abs/2604.04894v1",
+    "author": "Hengrui Gu",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04892v1",
+    "source": "arxiv",
+    "title": "Data Attribution in Adaptive Learning",
+    "summary": "Machine learning models increasingly generate their own training data -- online bandits, reinforcement learning, and post-training pipelines for language models are leading examples. In these adaptive settings, a single training observation both updates the learner and shifts the distribution of fut",
+    "tags": [
+      "ai",
+      "nlp",
+      "systems",
+      "python",
+      "data"
+    ],
+    "url": "http://arxiv.org/abs/2604.04892v1",
+    "author": "Amit Kiran Rege",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04891v1",
+    "source": "arxiv",
+    "title": "Muon Dynamics as a Spectral Wasserstein Flow",
+    "summary": "Gradient normalization is central in deep-learning optimization because it stabilizes training and reduces sensitivity to scale. For deep architectures, parameters are naturally grouped into matrices or blocks, so spectral normalizations are often more faithful than coordinatewise Euclidean ones; Mu",
+    "tags": [
+      "ai"
+    ],
+    "url": "http://arxiv.org/abs/2604.04891v1",
+    "author": "Gabriel Peyr\u00e9",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04878v1",
+    "source": "arxiv",
+    "title": "Learning, Potential, and Retention: An Approach for Evaluating Adaptive AI-Enabled Medical Devices",
+    "summary": "This work addresses challenges in evaluating adaptive artificial intelligence (AI) models for medical devices, where iterative updates to both models and evaluation datasets complicate performance assessment. We introduce a novel approach with three complementary measurements: learning (model improv",
+    "tags": [
+      "ai",
+      "data"
+    ],
+    "url": "http://arxiv.org/abs/2604.04878v1",
+    "author": "Alexis Burgon",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04876v1",
+    "source": "arxiv",
+    "title": "Incompleteness of AI Safety Verification via Kolmogorov Complexity",
+    "summary": "Ensuring that artificial intelligence (AI) systems satisfy formal safety and policy constraints is a central challenge in safety-critical domains. While limitations of verification are often attributed to combinatorial complexity and model expressiveness, we show that they arise from intrinsic infor",
+    "tags": [
+      "ai",
+      "systems"
+    ],
+    "url": "http://arxiv.org/abs/2604.04876v1",
+    "author": "Munawar Hasan",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04875v1",
+    "source": "arxiv",
+    "title": "DIRECT: Video Mashup Creation via Hierarchical Multi-Agent Planning and Intent-Guided Editing",
+    "summary": "Video mashup creation represents a complex video editing paradigm that recomposes existing footage to craft engaging audio-visual experiences, demanding intricate orchestration across semantic, visual, and auditory dimensions and multiple levels. However, existing automated editing frameworks often ",
+    "tags": [
+      "systems",
+      "open-source"
+    ],
+    "url": "http://arxiv.org/abs/2604.04875v1",
+    "author": "Ke Li",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04872v1",
+    "source": "arxiv",
+    "title": "Synthetic Sandbox for Training Machine Learning Engineering Agents",
+    "summary": "As large language model agents advance beyond software engineering (SWE) tasks toward machine learning engineering (MLE), verifying agent behavior becomes orders of magnitude more expensive: while SWE tasks can be verified via fast-executing unit tests, MLE verification requires running full ML pipe",
+    "tags": [
+      "ai",
+      "nlp",
+      "python"
+    ],
+    "url": "http://arxiv.org/abs/2604.04872v1",
+    "author": "Yuhang Zhou",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04869v1",
+    "source": "arxiv",
+    "title": "Optimizing LLM Prompt Engineering with DSPy Based Declarative Learning",
+    "summary": "Large Language Models (LLMs) have shown strong performance across a wide range of natural language processing tasks; however, their effectiveness is highly dependent on prompt design, structure, and embedded reasoning signals. Conventional prompt engineering methods largely rely on heuristic trial-a",
+    "tags": [
+      "nlp",
+      "systems",
+      "open-source"
+    ],
+    "url": "http://arxiv.org/abs/2604.04869v1",
+    "author": "Shiek Ruksana",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04868v1",
+    "source": "arxiv",
+    "title": "Noise Immunity in In-Context Tabular Learning: An Empirical Robustness Analysis of TabPFN's Attention Mechanisms",
+    "summary": "Tabular foundation models (TFMs) such as TabPFN (Tabular Prior-Data Fitted Network) are designed to generalize across heterogeneous tabular datasets through in-context learning (ICL). They perform prediction in a single forward pass conditioned on labeled examples without dataset-specific parameter ",
+    "tags": [
+      "systems",
+      "data",
+      "open-source"
+    ],
+    "url": "http://arxiv.org/abs/2604.04868v1",
+    "author": "James Hu",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04858v1",
+    "source": "arxiv",
+    "title": "FairLogue: A Toolkit for Intersectional Fairness Analysis in Clinical Machine Learning Models",
+    "summary": "Objective: Algorithmic fairness is essential for equitable and trustworthy machine learning in healthcare. Most fairness tools emphasize single-axis demographic comparisons and may miss compounded disparities affecting intersectional populations. This study introduces Fairlogue, a toolkit designed t",
+    "tags": [
+      "ai",
+      "systems",
+      "rust"
+    ],
+    "url": "http://arxiv.org/abs/2604.04858v1",
+    "author": "Nick Souligne",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04855v1",
+    "source": "arxiv",
+    "title": "The Role of Generator Access in Autoregressive Post-Training",
+    "summary": "We study how generator access constrains autoregressive post-training. The central question is whether the learner is confined to fresh root-start rollouts or can return to previously built prefixes and query the next-token rule there. In the root-start regime, output sampling, generated-token log p",
+    "tags": [
+      "ai",
+      "systems"
+    ],
+    "url": "http://arxiv.org/abs/2604.04855v1",
+    "author": "Amit Kiran Rege",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04853v1",
+    "source": "arxiv",
+    "title": "MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents",
+    "summary": "Large Language Model (LLM) agents require persistent memory to maintain personalization, factual continuity, and long-horizon reasoning, yet standard context-window and retrieval-augmented generation (RAG) pipelines degrade over multi-session interactions. We present MemMachine, an open-source memor",
+    "tags": [
+      "ai",
+      "nlp",
+      "python",
+      "data",
+      "open-source"
+    ],
+    "url": "http://arxiv.org/abs/2604.04853v1",
+    "author": "Shu Wang",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04852v1",
+    "source": "arxiv",
+    "title": "Strengthening Human-Centric Chain-of-Thought Reasoning Integrity in LLMs via a Structured Prompt Framework",
+    "summary": "Chain-of-Thought (CoT) prompting has been used to enhance the reasoning capability of LLMs. However, its reliability in security-sensitive analytical tasks remains insufficiently examined, particularly under structured human evaluation. Alternative approaches, such as model scaling and fine-tuning c",
+    "tags": [
+      "ai",
+      "nlp",
+      "security"
+    ],
+    "url": "http://arxiv.org/abs/2604.04852v1",
+    "author": "Jiling Zhou",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04847v1",
+    "source": "arxiv",
+    "title": "Full-Duplex-Bench-v3: Benchmarking Tool Use for Full-Duplex Voice Agents Under Real-World Disfluency",
+    "summary": "We introduce Full-Duplex-Bench-v3 (FDB-v3), a benchmark for evaluating spoken language models under naturalistic speech conditions and multi-step tool use. Unlike prior work, our dataset consists entirely of real human audio annotated for five disfluency categories, paired with scenarios requiring c",
+    "tags": [
+      "ai",
+      "nlp",
+      "systems",
+      "mobile",
+      "data"
+    ],
+    "url": "http://arxiv.org/abs/2604.04847v1",
+    "author": "Guan-Ting Lin",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04843v1",
+    "source": "arxiv",
+    "title": "InfBaGel: Human-Object-Scene Interaction Generation with Dynamic Perception and Iterative Refinement",
+    "summary": "Human-object-scene interactions (HOSI) generation has broad applications in embodied AI, simulation, and animation. Unlike human-object interaction (HOI) and human-scene interaction (HSI), HOSI generation requires reasoning over dynamic object-scene changes, yet suffers from limited annotated data. ",
+    "tags": [
+      "ai",
+      "systems",
+      "data",
+      "robotics"
+    ],
+    "url": "http://arxiv.org/abs/2604.04843v1",
+    "author": "Yude Zou",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04842v1",
+    "source": "arxiv",
+    "title": "Do No Harm: Exposing Hidden Vulnerabilities of LLMs via Persona-based Client Simulation Attack in Psychological Counseling",
+    "summary": "The increasing use of large language models (LLMs) in mental healthcare raises safety concerns in high-stakes therapeutic interactions. A key challenge is distinguishing therapeutic empathy from maladaptive validation, where supportive responses may inadvertently reinforce harmful beliefs or behavio",
+    "tags": [
+      "ai",
+      "nlp",
+      "systems"
+    ],
+    "url": "http://arxiv.org/abs/2604.04842v1",
+    "author": "Qingyang Xu",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04839v1",
+    "source": "arxiv",
+    "title": "MERIT: Multilingual Expert-Reward Informed Tuning for Chinese-Centric Low-Resource Machine Translation",
+    "summary": "Neural machine translation (NMT) from Chinese to low-resource Southeast Asian languages remains severely constrained by the extreme scarcity of clean parallel corpora and the pervasive noise in existing mined data. This chronic shortage not only impedes effective model training but also sustains a l",
+    "tags": [
+      "ai",
+      "data"
+    ],
+    "url": "http://arxiv.org/abs/2604.04839v1",
+    "author": "Zhixiang Lu",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04829v1",
+    "source": "arxiv",
+    "title": "A Robust SINDy Autoencoder for Noisy Dynamical System Identification",
+    "summary": "Sparse identification of nonlinear dynamics (SINDy) has been widely used to discover the governing equations of a dynamical system from data. It uses sparse regression techniques to identify parsimonious models of unknown systems from a library of candidate functions. Therefore, it relies on the ass",
+    "tags": [
+      "systems",
+      "data"
+    ],
+    "url": "http://arxiv.org/abs/2604.04829v1",
+    "author": "Kairui Ding",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04828v1",
+    "source": "arxiv",
+    "title": "Hybrid Fourier Neural Operator for Surrogate Modeling of Laser Processing with a Quantum-Circuit Mixer",
+    "summary": "Data-driven surrogates can replace expensive multiphysics solvers for parametric PDEs, yet building compact, accurate neural operators for three-dimensional problems remains challenging: in Fourier Neural Operators, dense mode-wise spectral channel mixing scales linearly with the number of retained ",
+    "tags": [
+      "ai",
+      "data"
+    ],
+    "url": "http://arxiv.org/abs/2604.04828v1",
+    "author": "Mateusz Papierz",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04825v1",
+    "source": "arxiv",
+    "title": "Plausibility as Commonsense Reasoning: Humans Succeed, Large Language Models Do not",
+    "summary": "Large language models achieve strong performance on many language tasks, yet it remains unclear whether they integrate world knowledge with syntactic structure in a human-like, structure-sensitive way during ambiguity resolution. We test this question in Turkish prenominal relative-clause attachment",
+    "tags": [
+      "ai",
+      "nlp"
+    ],
+    "url": "http://arxiv.org/abs/2604.04825v1",
+    "author": "Sercan Karaka\u015f",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04820v1",
+    "source": "arxiv",
+    "title": "ANX: Protocol-First Design for AI Agent Interaction with a Supporting 3EX Decoupled Architecture",
+    "summary": "AI agents, autonomous digital actors, need agent-native protocols; existing methods include GUI automation and MCP-based skills, with defects of high token consumption, fragmented interaction, inadequate security, due to lacking a unified top-level framework and key components, each independent modu",
+    "tags": [
+      "ai",
+      "security",
+      "robotics"
+    ],
+    "url": "http://arxiv.org/abs/2604.04820v1",
+    "author": "Xu Mingze",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04815v1",
+    "source": "arxiv",
+    "title": "LiveFact: A Dynamic, Time-Aware Benchmark for LLM-Driven Fake News Detection",
+    "summary": "The rapid development of Large Language Models (LLMs) has transformed fake news detection and fact-checking tasks from simple classification to complex reasoning. However, evaluation frameworks have not kept pace. Current benchmarks are static, making them vulnerable to benchmark data contamination ",
+    "tags": [
+      "nlp",
+      "data"
+    ],
+    "url": "http://arxiv.org/abs/2604.04815v1",
+    "author": "Cheng Xu",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04808v1",
+    "source": "arxiv",
+    "title": "Selecting Decision-Relevant Concepts in Reinforcement Learning",
+    "summary": "Training interpretable concept-based policies requires practitioners to manually select which human-understandable concepts an agent should reason with when making sequential decisions. This selection demands domain expertise, is time-consuming and costly, scales poorly with the number of candidates",
+    "tags": [
+      "ai",
+      "systems"
+    ],
+    "url": "http://arxiv.org/abs/2604.04808v1",
+    "author": "Naveen Raman",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04804v1",
+    "source": "arxiv",
+    "title": "SkillX: Automatically Constructing Skill Knowledge Bases for Agents",
+    "summary": "Learning from experience is critical for building capable large language model (LLM) agents, yet prevailing self-evolving paradigms remain inefficient: agents learn in isolation, repeatedly rediscover similar behaviors from limited experience, resulting in redundant exploration and poor generalizati",
+    "tags": [
+      "ai",
+      "nlp",
+      "database"
+    ],
+    "url": "http://arxiv.org/abs/2604.04804v1",
+    "author": "Chenxi Wang",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04802v1",
+    "source": "arxiv",
+    "title": "Partially deterministic sampling for compressed sensing with denoising guarantees",
+    "summary": "We study compressed sensing when the sampling vectors are chosen from the rows of a unitary matrix. In the literature, these sampling vectors are typically chosen randomly; the use of randomness has enabled major empirical and theoretical advances in the field. However, in practice there are often c",
+    "tags": [
+      "ai",
+      "systems"
+    ],
+    "url": "http://arxiv.org/abs/2604.04802v1",
+    "author": "Yaniv Plan",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04800v1",
+    "source": "arxiv",
+    "title": "Forgetting to Witness: Efficient Federated Unlearning and Its Visible Evaluation",
+    "summary": "With the increasing importance of data privacy and security, federated unlearning has emerged as a novel research field dedicated to ensuring that federated learning models no longer retain or leak relevant information once specific data has been deleted. In this paper, to the best of our knowledge,",
+    "tags": [
+      "ai",
+      "security",
+      "data"
+    ],
+    "url": "http://arxiv.org/abs/2604.04800v1",
+    "author": "Houzhe Wang",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04797v1",
+    "source": "arxiv",
+    "title": "Multi-Modal Sensor Fusion using Hybrid Attention for Autonomous Driving",
+    "summary": "Accurate 3D object detection for autonomous driving requires complementary sensors. Cameras provide dense semantics but unreliable depth, while millimeter-wave radar offers precise range and velocity measurements with sparse geometry. We propose MMF-BEV, a radar-camera BEV fusion framework that leve",
+    "tags": [
+      "systems",
+      "robotics",
+      "cv"
+    ],
+    "url": "http://arxiv.org/abs/2604.04797v1",
+    "author": "Mayank Mayank",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04791v1",
+    "source": "arxiv",
+    "title": "How Far Are We? Systematic Evaluation of LLMs vs. Human Experts in Mathematical Contest in Modeling",
+    "summary": "Large language models (LLMs) have achieved strong performance on reasoning benchmarks, yet their ability to solve real-world problems requiring end-to-end workflows remains unclear. Mathematical modeling competitions provide a stringent testbed for evaluating such end-to-end problem-solving capabili",
+    "tags": [
+      "ai",
+      "nlp"
+    ],
+    "url": "http://arxiv.org/abs/2604.04791v1",
+    "author": "Yuhang Liu",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04790v1",
+    "source": "arxiv",
+    "title": "HUKUKBERT: Domain-Specific Language Model for Turkish Law",
+    "summary": "Recent advances in natural language processing (NLP) have increasingly enabled LegalTech applications, yet existing studies specific to Turkish law have still been limited due to the scarcity of domain-specific data and models. Although extensive models like LEGAL-BERT have been developed for Englis",
+    "tags": [
+      "ai",
+      "nlp",
+      "data"
+    ],
+    "url": "http://arxiv.org/abs/2604.04790v1",
+    "author": "Mehmet Utku \u00d6zt\u00fcrk",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04786v1",
+    "source": "arxiv",
+    "title": "A Quantum Search Approach to Magic Square Constraint Problems with Classical Benchmarking",
+    "summary": "This paper presents a quantum search approach to combinatorial constraint satisfaction problems, demonstrated through the generation of magic squares. We reformulate magic square construction as a quantum search problem in which a reversible, constraint-sensitive oracle marks valid configurations fo",
+    "tags": [
+      "ai"
+    ],
+    "url": "http://arxiv.org/abs/2604.04786v1",
+    "author": "Rituparna R",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04771v1",
+    "source": "arxiv",
+    "title": "MinerU2.5-Pro: Pushing the Limits of Data-Centric Document Parsing at Scale",
+    "summary": "Current document parsing methods compete primarily on model architecture innovation, while systematic engineering of training data remains underexplored. Yet SOTA models of different architectures and parameter scales exhibit highly consistent failure patterns on the same set of hard samples, sugges",
+    "tags": [
+      "ai",
+      "data"
+    ],
+    "url": "http://arxiv.org/abs/2604.04771v1",
+    "author": "Bin Wang",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04767v1",
+    "source": "arxiv",
+    "title": "Cog-DRIFT: Exploration on Adaptively Reformulated Instances Enables Learning from Hard Reasoning Problems",
+    "summary": "Reinforcement learning from verifiable rewards (RLVR) has improved the reasoning abilities of LLMs, yet a fundamental limitation remains: models cannot learn from problems that are too difficult to solve under their current policy, as these yield no meaningful reward signal. We propose a simple yet ",
+    "tags": [
+      "ai",
+      "nlp",
+      "systems"
+    ],
+    "url": "http://arxiv.org/abs/2604.04767v1",
+    "author": "Justin Chih-Yao Chen",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04759v1",
+    "source": "arxiv",
+    "title": "Your Agent, Their Asset: A Real-World Safety Analysis of OpenClaw",
+    "summary": "OpenClaw, the most widely deployed personal AI agent in early 2026, operates with full local system access and integrates with sensitive services such as Gmail, Stripe, and the filesystem. While these broad privileges enable high levels of automation and powerful personalization, they also expose a ",
+    "tags": [
+      "ai",
+      "systems"
+    ],
+    "url": "http://arxiv.org/abs/2604.04759v1",
+    "author": "Zijun Wang",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04757v1",
+    "source": "arxiv",
+    "title": "Undetectable Conversations Between AI Agents via Pseudorandom Noise-Resilient Key Exchange",
+    "summary": "AI agents are increasingly deployed to interact with other agents on behalf of users and organizations. We ask whether two such agents, operated by different entities, can carry out a parallel secret conversation while still producing a transcript that is computationally indistinguishable from an ho",
+    "tags": [
+      "ai"
+    ],
+    "url": "http://arxiv.org/abs/2604.04757v1",
+    "author": "Vinod Vaikuntanathan",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "arxiv_2604_04756v1",
+    "source": "arxiv",
+    "title": "Darkness Visible: Reading the Exception Handler of a Language Model",
+    "summary": "The final MLP of GPT-2 Small exhibits a fully legible routing program -- 27 named neurons organized into a three-tier exception handler -- while the knowledge it routes remains entangled across ~3,040 residual neurons. We decompose all 3,072 neurons (to numerical precision) into: 5 fused Core neuron",
+    "tags": [
+      "ai",
+      "nlp",
+      "systems",
+      "open-source"
+    ],
+    "url": "http://arxiv.org/abs/2604.04756v1",
+    "author": "Peter Balogh",
+    "score": 0,
+    "reading_time_mins": 10,
+    "content_type": "paper"
+  },
+  {
+    "id": "devto_3438541",
+    "source": "devto",
+    "title": "The Great Claude Code Leak of 2026: Accident, Incompetence, or the Best PR Stunt in AI History?",
+    "summary": "TL;DR: On March 31, 2026, Anthropic accidentally shipped the entire source code of Claude Code to the...",
+    "tags": [
+      "webdev",
+      "ai",
+      "programming",
+      "productivity"
+    ],
+    "url": "https://dev.to/varshithvhegde/the-great-claude-code-leak-of-2026-accident-incompetence-or-the-best-pr-stunt-in-ai-history-3igm",
+    "author": "varshithvhegde",
+    "score": 192,
+    "reading_time_mins": 14,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3441458",
+    "source": "devto",
+    "title": "I've been building software for 40 years. But I want *you* to tell me about dev in 1986...",
+    "summary": "It's 2026 and I started professional software development in 1986 when I took a Summer internship...",
+    "tags": [
+      "programming",
+      "discuss",
+      "development",
+      "watercooler"
+    ],
+    "url": "https://dev.to/johnmunsch/ive-been-building-software-for-40-years-but-i-want-you-to-tell-me-about-dev-in-1986-1pmj",
+    "author": "johnmunsch",
+    "score": 40,
+    "reading_time_mins": 1,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3441385",
+    "source": "devto",
+    "title": "The Integration Tax: Walled-Garden Agent Strategies Won't Scale (MxN vs. M+N)",
+    "summary": "Personio maintains 200+ integrations. Greenhouse has 400+. iCIMS lists 800+.  Every single one is a...",
+    "tags": [
+      "ai",
+      "agents",
+      "programming",
+      "discuss"
+    ],
+    "url": "https://dev.to/testinat0r/the-integration-tax-walled-garden-agent-strategies-wont-scale-mxn-vs-mn-g5f",
+    "author": "testinat0r",
+    "score": 4,
+    "reading_time_mins": 6,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3448734",
+    "source": "devto",
+    "title": "The Hidden Cost of Framework-First Thinking",
+    "summary": "Frameworks are good for more than just boilerplate. They encode decisions: how to structure a...",
+    "tags": [
+      "beginners",
+      "programming",
+      "webdev",
+      "softwareengineering"
+    ],
+    "url": "https://dev.to/cn8001/the-hidden-cost-of-framework-first-thinking-3ko1",
+    "author": "cn8001",
+    "score": 22,
+    "reading_time_mins": 4,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3441825",
+    "source": "devto",
+    "title": "How SQLite Internals Connect Into One Unified System",
+    "summary": "Hello, I'm Maneshwar. I'm building git-lrc, an AI code reviewer that runs on every commit. It is...",
+    "tags": [
+      "webdev",
+      "programming",
+      "database",
+      "architecture"
+    ],
+    "url": "https://dev.to/lovestaco/how-sqlite-internals-connect-into-one-unified-system-e37",
+    "author": "lovestaco",
+    "score": 27,
+    "reading_time_mins": 3,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3460442",
+    "source": "devto",
+    "title": "Why I Built TracerKit",
+    "summary": "In a previous post, I described a workflow for building features with Claude Code: plan in...",
+    "tags": [
+      "ai",
+      "software",
+      "development",
+      "programming"
+    ],
+    "url": "https://dev.to/helderberto/why-i-built-tracerkit-fmo",
+    "author": "helderberto",
+    "score": 8,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3451916",
+    "source": "devto",
+    "title": "I Read a 1999 Book About How Geniuses Think. Then I Built an AI Framework With a Real Nervous System.",
+    "summary": "Every AI agent framework has the same architecture: a conductor telling tools what to do.  LangGraph:...",
+    "tags": [
+      "ai",
+      "opensource",
+      "machinelearning",
+      "programming"
+    ],
+    "url": "https://dev.to/kyuchan/i-read-a-1999-book-about-how-geniuses-think-then-i-built-an-ai-framework-with-a-real-nervous-3h8b",
+    "author": "kyuchan",
+    "score": 0,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3455273",
+    "source": "devto",
+    "title": "What I Learned Supervising 5 AI Agents on a Real Project",
+    "summary": "47 tasks completed, 12 test failures caught, 3 context exhaustions. A week of running 5 AI agents in parallel on a real Rust project.",
+    "tags": [
+      "ai",
+      "devtools",
+      "productivity",
+      "programming"
+    ],
+    "url": "https://dev.to/battyterm/what-i-learned-supervising-5-ai-agents-on-a-real-project-cl8",
+    "author": "battyterm",
+    "score": 6,
+    "reading_time_mins": 4,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3447027",
+    "source": "devto",
+    "title": "I'm Paying $200/Month for Claude. Anthropic Quietly Downgraded What I'm Getting.",
+    "summary": "What Happened   I pay $200/month for Anthropic's highest individual tier \u2014 Max 20x. I use...",
+    "tags": [
+      "ai",
+      "programming",
+      "anthropic",
+      "devtools"
+    ],
+    "url": "https://dev.to/lostbeard/im-paying-200month-for-claude-anthropic-quietly-downgraded-what-im-getting-4869",
+    "author": "lostbeard",
+    "score": 5,
+    "reading_time_mins": 11,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3446507",
+    "source": "devto",
+    "title": "I Was Engineering Around AI Emotions Before Anyone Proved They Existed",
+    "summary": "On April 2nd, Anthropic's Interpretability team dropped a paper that stopped me mid-scroll: Emotion...",
+    "tags": [
+      "ai",
+      "machinelearning",
+      "programming",
+      "opensource"
+    ],
+    "url": "https://dev.to/webdevtodayjason/i-was-engineering-around-ai-emotions-before-anyone-proved-they-existed-10n9",
+    "author": "webdevtodayjason",
+    "score": 3,
+    "reading_time_mins": 6,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3421386",
+    "source": "devto",
+    "title": "3 Takeaways from All Things AI: 80/20 Rule, Non-Deterministic Humans, and Why We're Still Early",
+    "summary": "Last week, I attended All Things AI in Durham, NC. The event was geared toward technical AI...",
+    "tags": [
+      "ai",
+      "discuss",
+      "mlh",
+      "opensource"
+    ],
+    "url": "https://dev.to/thisisryanswift/3-takeaways-from-all-things-ai-8020-rule-non-deterministic-humans-and-why-were-still-early-2mln",
+    "author": "thisisryanswift",
+    "score": 44,
+    "reading_time_mins": 3,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3439601",
+    "source": "devto",
+    "title": "The Curated, Automated Open Source Portfolio: How It\u2019s Going",
+    "summary": "A few months ago, I shared a story about building an automated open source portfolio using just my...",
+    "tags": [
+      "opensource",
+      "ai",
+      "vibecoding"
+    ],
+    "url": "https://dev.to/adiatiayu/the-curated-automated-open-source-portfolio-how-its-going-5f98",
+    "author": "adiatiayu",
+    "score": 25,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3443896",
+    "source": "devto",
+    "title": "We crammed a 24GB AI 3D-generation pipeline into a completely offline desktop app (and the Demo is live)",
+    "summary": "If you are an indie game developer right now, you know the pain of 3D asset generation.  The current...",
+    "tags": [
+      "ai",
+      "gamedev",
+      "showdev",
+      "tooling"
+    ],
+    "url": "https://dev.to/raseiri/we-crammed-a-24gb-ai-3d-generation-pipeline-into-a-completely-offline-desktop-app-and-the-demo-is-12i5",
+    "author": "raseiri",
+    "score": 9,
+    "reading_time_mins": 3,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3455561",
+    "source": "devto",
+    "title": "I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi",
+    "summary": "profClaw is an open-source AI agent engine that runs on your hardware. 35 providers, 72 tools, 22 chat channels, and a full TUI.",
+    "tags": [
+      "ai",
+      "opensource",
+      "devtools",
+      "selfhosted"
+    ],
+    "url": "https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e",
+    "author": "thegdsks",
+    "score": 19,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3436240",
+    "source": "devto",
+    "title": "How I Search 10,000+ AWS GitHub Repos in 10 Seconds",
+    "summary": "The Problem   Every AWS developer knows this pain: you need a reference architecture or...",
+    "tags": [
+      "aws",
+      "ai",
+      "devtools",
+      "serverless"
+    ],
+    "url": "https://dev.to/aws-builders/how-i-search-10000-aws-github-repos-in-10-seconds-4hi2",
+    "author": "ajitnk2006",
+    "score": 24,
+    "reading_time_mins": 2,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3453723",
+    "source": "devto",
+    "title": "How to Supervise AI Coding Agents Without Losing Your Mind",
+    "summary": "Running one AI agent works great. Running three in parallel on the same repo? They overwrite files, skip tests, and declare victory on broken code. Here is the supervision pattern that fixed it.",
+    "tags": [
+      "ai",
+      "devtools",
+      "productivity",
+      "tutorial"
+    ],
+    "url": "https://dev.to/battyterm/how-to-supervise-ai-coding-agents-without-losing-your-mind-53m4",
+    "author": "battyterm",
+    "score": 14,
+    "reading_time_mins": 4,
+    "content_type": "tutorial"
+  },
+  {
+    "id": "devto_3438570",
+    "source": "devto",
+    "title": "When Claude Acts Like a Clod: Catching AI Fabrications: A QA Engineer\u2019s Field Notes",
+    "summary": "Using AI as a research assistant? Here\u2019s how I\u2019ve detected Claude\u2019s fabrications, and how I\u2019ve...",
+    "tags": [
+      "ai",
+      "llm",
+      "python",
+      "testing"
+    ],
+    "url": "https://dev.to/tjmaher1/when-claude-acts-like-a-clod-catching-ai-fabrications-a-qa-engineers-field-notes-36f2",
+    "author": "tjmaher1",
+    "score": 10,
+    "reading_time_mins": 3,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3441398",
+    "source": "devto",
+    "title": "De front-end para UX, e de volta ao c\u00f3digo: o que significa ser Design Engineer em 2026",
+    "summary": "Sou UX/UI designer, mas antes disso fui front-end.  Atuei cerca de 5 anos trabalhando com HTML e CSS,...",
+    "tags": [
+      "ai",
+      "design",
+      "ux",
+      "braziliandevs"
+    ],
+    "url": "https://dev.to/he4rt/de-front-end-para-ux-e-de-volta-ao-codigo-o-que-significa-ser-design-engineer-em-2026-3j74",
+    "author": "vitoriazzp",
+    "score": 82,
+    "reading_time_mins": 4,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3445554",
+    "source": "devto",
+    "title": "ContextCore: AI Agents conversations to an MCP-queryable memory layer",
+    "summary": "Hello :). This OSS product is for you (or future-you) who reached the point of wanting to tap into...",
+    "tags": [
+      "showdev",
+      "ai",
+      "mcp",
+      "coding"
+    ],
+    "url": "https://dev.to/kyliathy/contextcore-ai-agents-conversations-to-an-mcp-queryable-memory-layer-4h1p",
+    "author": "kyliathy",
+    "score": 13,
+    "reading_time_mins": 2,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3442345",
+    "source": "devto",
+    "title": "9 Things You\u2019re Overengineering (The Browser Already Solved Them)",
+    "summary": "I love writing philosophical essays \u2014 thoughts about code, work, all that stuff. I also love deep...",
+    "tags": [
+      "webdev",
+      "javascript",
+      "css",
+      "browser"
+    ],
+    "url": "https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99",
+    "author": "sylwia-lask",
+    "score": 202,
+    "reading_time_mins": 5,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3439132",
+    "source": "devto",
+    "title": "Trading My Body for Logic: The Physical Decay We Ignore",
+    "summary": "It burns behind my eyelids. Not the normal kind of tired, but a sharp, constant ache. It feels like...",
+    "tags": [
+      "discuss",
+      "mentalhealth",
+      "career",
+      "webdev"
+    ],
+    "url": "https://dev.to/the_nortern_dev/trading-my-body-for-logic-the-physical-decay-we-ignore-3c4i",
+    "author": "the_nortern_dev",
+    "score": 105,
+    "reading_time_mins": 3,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3442235",
+    "source": "devto",
+    "title": "\ud83c\udf2a\ufe0f Proof of Work: The To-Do List of Infinite Regret",
+    "summary": "**           What I Built   ** I built a productivity app for people who hate being productive. Proof...",
+    "tags": [
+      "devchallenge",
+      "418challenge",
+      "showdev",
+      "webdev"
+    ],
+    "url": "https://dev.to/malik_sohaib_iqbal/proof-of-work-the-to-do-list-of-infinite-regret-48le",
+    "author": "malik_sohaib_iqbal",
+    "score": 27,
+    "reading_time_mins": 2,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3436441",
+    "source": "devto",
+    "title": "CSS in City",
+    "summary": "This city is built with CSS. No SVG. No images. No HTML. Just gradients... and a bit of patience.",
+    "tags": [
+      "css",
+      "webdev",
+      "showdev"
+    ],
+    "url": "https://dev.to/alvaromontoro/css-in-city-23fb",
+    "author": "alvaromontoro",
+    "score": 22,
+    "reading_time_mins": 3,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3447903",
+    "source": "devto",
+    "title": "Why I built a self-hosted centralized backup manager",
+    "summary": "There\u2019s no shortage of backup tools.  But none of them gave me a simple way to manage backups across...",
+    "tags": [
+      "go",
+      "devops",
+      "opensource",
+      "webdev"
+    ],
+    "url": "https://dev.to/filippocrotti/why-i-built-a-self-hosted-centralized-backup-manager-22f2",
+    "author": "filippocrotti",
+    "score": 8,
+    "reading_time_mins": 4,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3445699",
+    "source": "devto",
+    "title": "GEO Optimizer v4.0.0 is Stable \u2014 What We Fixed, What We Built, What's Next",
+    "summary": "v4.0.0 is out.  Not beta. Not release candidate. Stable.  This post is the honest story of how it got...",
+    "tags": [
+      "opensource",
+      "python",
+      "ai",
+      "webdev"
+    ],
+    "url": "https://dev.to/juan_camiloauriti_646918/geo-optimizer-v400-is-stable-what-we-fixed-what-we-built-whats-next-481b",
+    "author": "juan_camiloauriti_646918",
+    "score": 5,
+    "reading_time_mins": 7,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3457666",
+    "source": "devto",
+    "title": "How We Ditched Backend Rendering and Went Full Client-Side with framewebworker",
+    "summary": "The Problem with Server-Side Video Rendering   If you've ever built a video editing app, you...",
+    "tags": [
+      "nextjs",
+      "typescript",
+      "webdev",
+      "opensource"
+    ],
+    "url": "https://dev.to/nareshipme/how-we-ditched-backend-rendering-and-went-full-client-side-with-framewebworker-3ci0",
+    "author": "nareshipme",
+    "score": 2,
+    "reading_time_mins": 3,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3456045",
+    "source": "devto",
+    "title": "How I Found $1,240/Month in Wasted LLM API Costs (And Built a Tool to Find Yours)",
+    "summary": "I was spending about $2,000/month on OpenAI and Anthropic APIs across a few projects.  I knew some of...",
+    "tags": [
+      "ai",
+      "tutorial",
+      "python",
+      "opensource"
+    ],
+    "url": "https://dev.to/buildwithabid/how-i-found-1240month-in-wasted-llm-api-costs-and-built-a-tool-to-find-yours-3041",
+    "author": "buildwithabid",
+    "score": 8,
+    "reading_time_mins": 4,
+    "content_type": "tutorial"
+  },
+  {
+    "id": "devto_3441625",
+    "source": "devto",
+    "title": "I built a machine-readable UK Chart of Accounts for Python (because one didn't exist)",
+    "summary": "Table Of Contents    What it does Quick example Why VAT treatments matter The LLM use...",
+    "tags": [
+      "python",
+      "accounting",
+      "opensource",
+      "fintech"
+    ],
+    "url": "https://dev.to/billkhiz/i-built-a-machine-readable-uk-chart-of-accounts-for-python-because-one-didnt-exist-30m6",
+    "author": "billkhiz",
+    "score": 9,
+    "reading_time_mins": 3,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3448866",
+    "source": "devto",
+    "title": "I Was Paying $0.006 Per URL for SEO Audits Until I Realized Most Needed $0",
+    "summary": "Pascal CESCATO read my SEO audit agent piece and left this in the comments:   \"You don't need an LLM...",
+    "tags": [
+      "python",
+      "ai",
+      "webdev",
+      "automation"
+    ],
+    "url": "https://dev.to/dannwaneri/i-was-paying-0006-per-url-for-seo-audits-until-i-realized-most-needed-0-132j",
+    "author": "dannwaneri",
+    "score": 16,
+    "reading_time_mins": 4,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3454173",
+    "source": "devto",
+    "title": "I built a database in France because the Cloud Act makes EU data sovereignty impossible",
+    "summary": "In January 2025, the US administration fired three members of the Privacy and Civil Liberties...",
+    "tags": [
+      "ai",
+      "python",
+      "privacy",
+      "database"
+    ],
+    "url": "https://dev.to/wiscale-fr/i-built-a-database-in-france-because-the-cloud-act-makes-eu-data-sovereignty-impossible-5325",
+    "author": "wiscale",
+    "score": 3,
+    "reading_time_mins": 12,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3437274",
+    "source": "devto",
+    "title": "# I Built a DevOps Chatbot That Checks My Live App for Failures \u2014 Here's How It Works",
+    "summary": "Why I Built This   Every DevOps engineer has had the 2am moment. Something is broken. You...",
+    "tags": [
+      "devops",
+      "ai",
+      "langchain",
+      "python"
+    ],
+    "url": "https://dev.to/vijaya_bollu/-i-built-a-devops-chatbot-that-checks-my-live-app-for-failures-heres-how-it-works-h78",
+    "author": "vijaya_bollu",
+    "score": 3,
+    "reading_time_mins": 3,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3450429",
+    "source": "devto",
+    "title": "My Local Python Setup Was Quietly Destroying Our Team's Productivity. Docker Fixed It.",
+    "summary": "How I moved our Python interpreter into a Docker container, wired it into VS Code, and never looked...",
+    "tags": [
+      "docker",
+      "cicd",
+      "python",
+      "kubernetes"
+    ],
+    "url": "https://dev.to/practical_tech_notes/my-local-python-setup-was-quietly-destroying-our-teams-productivity-docker-fixed-it-1647",
+    "author": "practical_tech_notes",
+    "score": 1,
+    "reading_time_mins": 6,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3456613",
+    "source": "devto",
+    "title": "How I Use Genetic Algorithms to Evolve Trading Strategies (With Real Code)",
+    "summary": "Most quant traders hand-tune strategies. Tweak a moving average here, adjust a threshold there, run a...",
+    "tags": [
+      "ai",
+      "python",
+      "trading",
+      "opensource"
+    ],
+    "url": "https://dev.to/neuzhou/how-i-use-genetic-algorithms-to-evolve-trading-strategies-with-real-code-1n84",
+    "author": "neuzhou",
+    "score": 1,
+    "reading_time_mins": 3,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3455504",
+    "source": "devto",
+    "title": "MCP Dev Summit 2026: What Actually Changed for Python Developers",
+    "summary": "The MCP Dev Summit NYC wrapped April 3. Here's the signal \u2014 what shipped, what changed in the auth landscape, and what it means for your Python MCP code right now.",
+    "tags": [
+      "python",
+      "mcp",
+      "ai",
+      "auth"
+    ],
+    "url": "https://dev.to/peytongreen_dev/mcp-dev-summit-2026-what-actually-changed-for-python-developers-16ep",
+    "author": "peytongreen_dev",
+    "score": 2,
+    "reading_time_mins": 6,
+    "content_type": "article"
+  },
+  {
+    "id": "devto_3416936",
+    "source": "devto",
+    "title": "Google Maps for Codebases: Paste a GitHub URL, Ask Anything",
+    "summary": "Navigating a large codebase for the first time is painful. You clone the repo, realize there are 300...",
+    "tags": [
+      "javascript",
+      "opensource",
+      "tutorial",
+      "ai"
+    ],
+    "url": "https://dev.to/copilotkit/google-maps-for-codebases-paste-a-github-url-ask-anything-3hk8",
+    "author": "anmolbaranwal",
+    "score": 88,
+    "reading_time_mins": 17,
+    "content_type": "tutorial"
+  },
+  {
+    "id": "devto_3461516",
+    "source": "devto",
+    "title": "Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability [GDE]",
+    "summary": "AI orchestrators receive significant attention; however, when deployments become latent and costly,...",
+    "tags": [
+      "agents",
+      "tutorial",
+      "ai",
+      "typescript"
+    ],
+    "url": "https://dev.to/gde/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-1mo5",
+    "author": "railsstudent",
+    "score": 19,
+    "reading_time_mins": 12,
+    "content_type": "tutorial"
+  },
+  {
+    "id": "devto_3453561",
+    "source": "devto",
+    "title": "Convert HTML to PNG in the Browser Using SVG foreignObject (No Library)",
+    "summary": "There are plenty of libraries for converting HTML to an image \u2014 html2canvas, dom-to-image,...",
+    "tags": [
+      "javascript",
+      "webdev",
+      "tutorial",
+      "beginners"
+    ],
+    "url": "https://dev.to/shaishav_patel_271fdcd61a/convert-html-to-png-in-the-browser-using-svg-foreignobject-no-library-46op",
+    "author": "shaishav_patel_271fdcd61a",
+    "score": 2,
+    "reading_time_mins": 6,
+    "content_type": "tutorial"
+  },
+  {
+    "id": "devto_3447053",
+    "source": "devto",
+    "title": "Claude Code Skills Have a Model Field. Here's Why You Should Be Using It.",
+    "summary": "I've been building Claude Code skills for a few weeks. Writing the prompts, testing them, tweaking...",
+    "tags": [
+      "mcp",
+      "ai",
+      "tutorial",
+      "typescript"
+    ],
+    "url": "https://dev.to/ithiria894/claude-code-skills-have-a-model-field-heres-why-you-should-be-using-it-iha",
+    "author": "ithiria894",
+    "score": 4,
+    "reading_time_mins": 4,
+    "content_type": "tutorial"
+  },
+  {
+    "id": "devto_3456503",
+    "source": "devto",
+    "title": "The DataWeave <~ Operator: How Angle Brackets in Customer Notes Broke 200 Orders",
+    "summary": "A customer typed \"\" in their notes field. It broke 200 XML orders and I spent 3 hours finding a...",
+    "tags": [
+      "dataweave",
+      "mulesoft",
+      "xml",
+      "tutorial"
+    ],
+    "url": "https://dev.to/thasha/the-dataweave-operator-how-angle-brackets-in-customer-notes-broke-200-orders-2b0j",
+    "author": "thasha",
+    "score": 0,
+    "reading_time_mins": 2,
+    "content_type": "tutorial"
+  },
+  {
+    "id": "devto_3457093",
+    "source": "devto",
+    "title": "Building a Continuous Voice Interface with the OpenAI Realtime API",
+    "summary": "A technical walkthrough of how the ABD Assistant voice command system works end-to-end, from raw...",
+    "tags": [
+      "ai",
+      "javascript",
+      "openai",
+      "tutorial"
+    ],
+    "url": "https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn",
+    "author": "diran_adeola",
+    "score": 14,
+    "reading_time_mins": 3,
+    "content_type": "tutorial"
+  },
+  {
+    "id": "devto_3437712",
+    "source": "devto",
+    "title": "Building a Production-Ready Serverless App on Google Cloud (Part 1: Architecture)",
+    "summary": "The Problem   In my previous post, I shared how I used an AI agent framework during a train...",
+    "tags": [
+      "serverless",
+      "dataengineering",
+      "cloud",
+      "tutorial"
+    ],
+    "url": "https://dev.to/gde/building-a-production-ready-serverless-app-on-google-cloud-part-1-architecture-49d",
+    "author": "patitonav",
+    "score": 14,
+    "reading_time_mins": 5,
+    "content_type": "tutorial"
+  },
+  {
+    "id": "devto_3457150",
+    "source": "devto",
+    "title": "Recursive PII Masking in DataWeave: One Function for Any Depth (and the Null Trap)",
+    "summary": "A compliance audit found SSN values 4 levels deep in our API responses last year. One recursive...",
+    "tags": [
+      "dataweave",
+      "mulesoft",
+      "security",
+      "tutorial"
+    ],
+    "url": "https://dev.to/thasha/recursive-pii-masking-in-dataweave-one-function-for-any-depth-and-the-null-trap-3dka",
+    "author": "thasha",
+    "score": 0,
+    "reading_time_mins": 2,
+    "content_type": "tutorial"
+  },
+  {
+    "id": "reddit_1se52tt",
+    "source": "reddit",
+    "title": "PDF of the current POSIX standard",
+    "summary": "I searched for the PDF of the POSIX standard and it was 600$ in IEEE Xplore. I decided to put every page together in a PDF so everybody can access it. ToC is not available at the moment, hopefully will fix.",
+    "tags": [
+      "ai",
+      "systems"
+    ],
+    "url": "https://reddit.com/r/programming/comments/1se52tt/pdf_of_the_current_posix_standard/",
+    "author": "CodeEleven0",
+    "score": 209,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1set2gu",
+    "source": "reddit",
+    "title": "C3 closes out its 0.7 era \u2014 focusing on simplicity and control before 0.8",
+    "summary": "C3 is trying to stay close to C in terms of control and predictability,\u00a0  \nwithout piling on too much complexity  \n  \nThis release is mostly about tightening semantics, improving inference,\u00a0  \nand removing edge cases before moving into the 0.8 cycle.  \n  \nIt\u2019s less about adding features and more abo",
+    "tags": [
+      "systems"
+    ],
+    "url": "https://reddit.com/r/programming/comments/1set2gu/c3_closes_out_its_07_era_focusing_on_simplicity/",
+    "author": "Nuoji",
+    "score": 5,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1sdy11q",
+    "source": "reddit",
+    "title": "Stamp It! All Programs Must Report Their Version",
+    "summary": "Stamp It! All Programs Must Report Their Version",
+    "tags": [
+      "general"
+    ],
+    "url": "https://reddit.com/r/programming/comments/1sdy11q/stamp_it_all_programs_must_report_their_version/",
+    "author": "SpecialistLady",
+    "score": 165,
+    "reading_time_mins": 3,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1se324q",
+    "source": "reddit",
+    "title": "I poorly estimated a year long rewrite",
+    "summary": "I poorly estimated a year long rewrite",
+    "tags": [
+      "general"
+    ],
+    "url": "https://reddit.com/r/programming/comments/1se324q/i_poorly_estimated_a_year_long_rewrite/",
+    "author": "levodelellis",
+    "score": 75,
+    "reading_time_mins": 3,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1seqkv6",
+    "source": "reddit",
+    "title": "I\u2019m excited to share my latest personal project",
+    "summary": "Description: Hey everyone! \ud83d\udc4b\n\nI wanted a truly ephemeral way to send links, text, or have a quick chat without leaving a digital footprint or creating an account.\n\nIt\u2019s entirely on WebRTC. There is no central server parsing or storing your messages. You generate a short 6-character code, share it, a",
+    "tags": [
+      "web"
+    ],
+    "url": "https://reddit.com/r/programming/comments/1seqkv6/im_excited_to_share_my_latest_personal_project/",
+    "author": "RNswain",
+    "score": 2,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1sdp20m",
+    "source": "reddit",
+    "title": "How Linux executes binaries: ELF and dynamic linking explained",
+    "summary": "After 25 years working with Linux internals I wrote this article. It's a deep dive into how Linux executes binaries, focusing on ELF internals and dynamic linking. Covers GOT/PLT, relocations, and what actually happens at runtime (memory mappings, syscalls, dynamic loader).\n\nHappy to discuss or clar",
+    "tags": [
+      "ai",
+      "systems"
+    ],
+    "url": "https://reddit.com/r/programming/comments/1sdp20m/how_linux_executes_binaries_elf_and_dynamic/",
+    "author": "Solid-Film-818",
+    "score": 329,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1sesbjq",
+    "source": "reddit",
+    "title": "Parse, Don't Validate \u2014 In a Language That Doesn't Want You To \u00b7 cekrem.github.io",
+    "summary": "Parse, Don't Validate \u2014 In a Language That Doesn't Want You To \u00b7 cekrem.github.io",
+    "tags": [
+      "open-source"
+    ],
+    "url": "https://reddit.com/r/programming/comments/1sesbjq/parse_dont_validate_in_a_language_that_doesnt/",
+    "author": "cekrem",
+    "score": 0,
+    "reading_time_mins": 3,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1sdnq0f",
+    "source": "reddit",
+    "title": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice, claiming that its circumvention.",
+    "summary": "Media scraper Gallery-dl is moving to Codeberg after receiving a DMCA notice, claiming that its circumvention.",
+    "tags": [
+      "ai"
+    ],
+    "url": "https://reddit.com/r/programming/comments/1sdnq0f/media_scraper_gallerydl_is_moving_to_codeberg/",
+    "author": "TheTwelveYearOld",
+    "score": 292,
+    "reading_time_mins": 3,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1sdv3kd",
+    "source": "reddit",
+    "title": "Beyond Indexes: How Open Table Formats Optimize Query Performance",
+    "summary": "Beyond Indexes: How Open Table Formats Optimize Query Performance",
+    "tags": [
+      "general"
+    ],
+    "url": "https://reddit.com/r/programming/comments/1sdv3kd/beyond_indexes_how_open_table_formats_optimize/",
+    "author": "fagnerbrack",
+    "score": 42,
+    "reading_time_mins": 3,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1se3lsn",
+    "source": "reddit",
+    "title": "Measuring Jitter: Standard Linux vs PREEMPT_RT under heavy load",
+    "summary": "# \n\n[](https://www.reddit.com/r/linux/?f=flair_name%3A%22Kernel%22)\n\nI've been working on a Software PLC where microsecond-level execution timing is critical. To guarantee real-time performance, I tested and compared the scheduling jitter between a standard Linux kernel and a PREEMPT\\_RT patched ker",
+    "tags": [
+      "ai",
+      "systems"
+    ],
+    "url": "https://reddit.com/r/programming/comments/1se3lsn/measuring_jitter_standard_linux_vs_preempt_rt/",
+    "author": "Special_Ad5912",
+    "score": 5,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1se1ypz",
+    "source": "reddit",
+    "title": "The Data Race Hiding Behind \"Correct\" Atomics",
+    "summary": "The Data Race Hiding Behind \"Correct\" Atomics",
+    "tags": [
+      "data"
+    ],
+    "url": "https://reddit.com/r/programming/comments/1se1ypz/the_data_race_hiding_behind_correct_atomics/",
+    "author": "devTripp",
+    "score": 8,
+    "reading_time_mins": 3,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1sdlb99",
+    "source": "reddit",
+    "title": "Anomaly detection with nothing but Welford's algorithm and a KV store",
+    "summary": "Anomaly detection with nothing but Welford's algorithm and a KV store",
+    "tags": [
+      "general"
+    ],
+    "url": "https://reddit.com/r/programming/comments/1sdlb99/anomaly_detection_with_nothing_but_welfords/",
+    "author": "uriwa",
+    "score": 99,
+    "reading_time_mins": 3,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1seqckq",
+    "source": "reddit",
+    "title": "[D] Is ACL more about the benchmarks now?",
+    "summary": "I am not a NLP guy, but afaik ACL is one of the premium venues of NLP. \n\nAnd given that the results were announced recently, my LinkedIn and Twitter are full of such posts. However, every title I read in those posts has something to do with benchmarks. And even it seems, the young researchers also h",
+    "tags": [
+      "ai",
+      "nlp",
+      "systems"
+    ],
+    "url": "https://reddit.com/r/MachineLearning/comments/1seqckq/d_is_acl_more_about_the_benchmarks_now/",
+    "author": "Fantastic-Nerve-4056",
+    "score": 19,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1sesq0s",
+    "source": "reddit",
+    "title": "[D] thoughts on current community moving away from heavy math?",
+    "summary": "I don't know about how you guys feel but even before LLM started, many papers are already leaning on empirical findings, architecture designs, and some changes to loss functions. Not that these does not need math, but I think part of the community has moved away from math heavy era. There are still ",
+    "tags": [
+      "nlp",
+      "systems",
+      "open-source"
+    ],
+    "url": "https://reddit.com/r/MachineLearning/comments/1sesq0s/d_thoughts_on_current_community_moving_away_from/",
+    "author": "Striking-Warning9533",
+    "score": 11,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1senzrn",
+    "source": "reddit",
+    "title": "[R] Hybrid attention for small code models: 50x faster inference, but data scaling still dominates",
+    "summary": "**TLDR: Forked pytorch and triton internals . Changed attention so its linear first layer , middle quadratic  layer, last linear layer**  \n**Inference got much faster with a low perplexity hit in tests .**\n\nI trained a 25.6M parameter Rust-focused language model from scratch using a byte-level GPT-s",
+    "tags": [
+      "ai",
+      "nlp",
+      "rust",
+      "python",
+      "data"
+    ],
+    "url": "https://reddit.com/r/MachineLearning/comments/1senzrn/r_hybrid_attention_for_small_code_models_50x/",
+    "author": "Inevitable_Back3319",
+    "score": 9,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1seexk0",
+    "source": "reddit",
+    "title": "[D] How's MLX and jax/ pytorch on MacBooks these days?",
+    "summary": "&amp;#x200B;\n\nSo I'm looking at  buying a new   14 inch MacBook pro with m5 pro and 64 gb of memory vs m4 max with same specs.\n\nMy priorities are pro  software development including running multiple VMs and agents and containers, and playing around with local LLMs, maybe fine-tuning and also trainin",
+    "tags": [
+      "ai",
+      "nlp",
+      "python"
+    ],
+    "url": "https://reddit.com/r/MachineLearning/comments/1seexk0/d_hows_mlx_and_jax_pytorch_on_macbooks_these_days/",
+    "author": "Busy_Alfalfa1104",
+    "score": 26,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1serby2",
+    "source": "reddit",
+    "title": "[R] TriAttention: Efficient KV Cache Compression for Long-Context Reasoning",
+    "summary": "[R] TriAttention: Efficient KV Cache Compression for Long-Context Reasoning",
+    "tags": [
+      "general"
+    ],
+    "url": "https://reddit.com/r/MachineLearning/comments/1serby2/r_triattention_efficient_kv_cache_compression_for/",
+    "author": "Benlus",
+    "score": 2,
+    "reading_time_mins": 3,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1se451u",
+    "source": "reddit",
+    "title": "[D] ICML 26 - What to do with the zero follow-up questions",
+    "summary": "Hello everyone. I submitted my work to\u00a0**ICML 26**\u00a0this year, and it got somewhat above average reviews.\n\nNow, in the rebuttal acknowledgment, three of the four reviewers said they have some follow-up questions. But they haven't asked any yet. As I have less than 48 hours remaining, what should I do",
+    "tags": [
+      "ai"
+    ],
+    "url": "https://reddit.com/r/MachineLearning/comments/1se451u/d_icml_26_what_to_do_with_the_zero_followup/",
+    "author": "DifficultyHeavy",
+    "score": 28,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1sdmn97",
+    "source": "reddit",
+    "title": "[D] How to break free from LLM's chains as a PhD student?",
+    "summary": "I didn't realize but over a period of one year i have become overreliant on ChatGPT to write code, I am a second year PhD student and don't want to end up as someone with fake \"coding skills\" after I graduate. I hear people talk about it all the time that use LLM to write boring parts of the code, a",
+    "tags": [
+      "ai",
+      "nlp"
+    ],
+    "url": "https://reddit.com/r/MachineLearning/comments/1sdmn97/d_how_to_break_free_from_llms_chains_as_a_phd/",
+    "author": "etoipi1",
+    "score": 184,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1sehlqp",
+    "source": "reddit",
+    "title": "[D] Attending ICPR conference",
+    "summary": "Looking for fellow researchers who are planning to attend ICPR conference. ",
+    "tags": [
+      "general"
+    ],
+    "url": "https://reddit.com/r/MachineLearning/comments/1sehlqp/d_attending_icpr_conference/",
+    "author": "Warm_Effect2848",
+    "score": 1,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1sdu1gd",
+    "source": "reddit",
+    "title": "[D] IJCAI 2026 rebuttal discussion",
+    "summary": "Hi everyone,\n\nI\u2019ve created a thread for the upcoming discussion during the rebuttal phase. After Phase 1, it appears that around 70% of the papers are currently under review.\n\nWishing you all the best!",
+    "tags": [
+      "ai"
+    ],
+    "url": "https://reddit.com/r/MachineLearning/comments/1sdu1gd/d_ijcai_2026_rebuttal_discussion/",
+    "author": "snu95",
+    "score": 15,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1selu8x",
+    "source": "reddit",
+    "title": "[R] Agentic AI and Occupational Displacement: A Multi-Regional Task Exposure Analysis (236 occupations, 5 US metros)",
+    "summary": "**TL;DR:** We extended the Acemoglu-Restrepo task displacement framework to handle agentic AI -- the kind of systems that complete entire workflows end-to-end, not just single tasks -- and applied it to 236 occupations across 5 US tech metros (SF Bay, Seattle, Austin, Boston, NYC).\n\n**Paper:** [http",
+    "tags": [
+      "ai",
+      "systems",
+      "open-source"
+    ],
+    "url": "https://reddit.com/r/MachineLearning/comments/1selu8x/r_agentic_ai_and_occupational_displacement_a/",
+    "author": "LengthinessAny3851",
+    "score": 0,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1se1rmd",
+    "source": "reddit",
+    "title": "[P] Easily provide Wandb logs as context to agents for analysis and planning.",
+    "summary": "It is frustrating to use the Wandb CLI and MCP tools with my agents. For one, the MCP tool basically floods the context window and frequently errors out :/\n\nSo I built a cli tool that:\n\n* imports my wandb projects;\n* uses algorithms from [AlphaEvolve](https://arxiv.org/abs/2506.13131) to index and s",
+    "tags": [
+      "rust"
+    ],
+    "url": "https://reddit.com/r/MachineLearning/comments/1se1rmd/p_easily_provide_wandb_logs_as_context_to_agents/",
+    "author": "hgarud",
+    "score": 5,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1sedqda",
+    "source": "reddit",
+    "title": "[D] Tested model routing on financial AI datasets \u2014 good savings and curious what benchmarks others use.",
+    "summary": "Ran a benchmark evaluating whether prompt complexity-based routing delivers meaningful savings. Used public HuggingFace datasets. Here's what I found.\n\n**Setup**\n\nBaseline: Claude Opus for everything. Tested two strategies:\n\n* **Intra-provider** \u2014 routes within same provider by complexity. Simple \u2192 ",
+    "tags": [
+      "ai",
+      "data"
+    ],
+    "url": "https://reddit.com/r/MachineLearning/comments/1sedqda/d_tested_model_routing_on_financial_ai_datasets/",
+    "author": "Dramatic_Strain7370",
+    "score": 0,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1sem9fn",
+    "source": "reddit",
+    "title": "We didn't need a union when the market was great. It isn't anymore.",
+    "summary": "For most of our careers, devs had it good. Demand outstripped supply. Companies competed for us with six-figure salaries, equity, remote work, and  free lunches. That's no longer the case.\n\nAI coding tools are rapidly expanding at a rate none of us predicted. Companies are using AI to justify hiring",
+    "tags": [
+      "ai",
+      "systems",
+      "career"
+    ],
+    "url": "https://reddit.com/r/webdev/comments/1sem9fn/we_didnt_need_a_union_when_the_market_was_great/",
+    "author": "Nephelophyte",
+    "score": 201,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1sebw8s",
+    "source": "reddit",
+    "title": "I hate AI and I am depressed",
+    "summary": "I use AI as a tool for coding and research, but I don't want to be a prompt writer and a code reviewer. I like to use AI to implement specific code I ask for, after I think of the product, the problem, find a solution and I want to choose the architecture, the patterns and  be the developer. I am de",
+    "tags": [
+      "ai",
+      "systems",
+      "startup"
+    ],
+    "url": "https://reddit.com/r/webdev/comments/1sebw8s/i_hate_ai_and_i_am_depressed/",
+    "author": "poponis",
+    "score": 641,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1sep65l",
+    "source": "reddit",
+    "title": "Claude Is Not Your Architect. Stop Letting It Pretend.",
+    "summary": "Claude Is Not Your Architect. Stop Letting It Pretend.",
+    "tags": [
+      "general"
+    ],
+    "url": "https://reddit.com/r/webdev/comments/1sep65l/claude_is_not_your_architect_stop_letting_it/",
+    "author": "mmaksimovic",
+    "score": 83,
+    "reading_time_mins": 3,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1sdzd1q",
+    "source": "reddit",
+    "title": "Meta's AI crawler scraped my site 7.9 million times in 30 days. 900+ GB of bandwidth and massive server logs before I noticed, cool cool cool.",
+    "summary": "Meta's AI crawler scraped my site 7.9 million times in 30 days. 900+ GB of bandwidth and massive server logs before I noticed, cool cool cool.",
+    "tags": [
+      "ai"
+    ],
+    "url": "https://reddit.com/r/webdev/comments/1sdzd1q/metas_ai_crawler_scraped_my_site_79_million_times/",
+    "author": "Whiskee",
+    "score": 1058,
+    "reading_time_mins": 3,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1se0q22",
+    "source": "reddit",
+    "title": "What's everyone's obsession with storing everything in localStorage?",
+    "summary": "Stop treating localStorage like a BOTTOMLESS PIT!! \n\nThis is my 3rd employer where I have dealing with a production outage caused by a `QuotaExceededError` (DOM Exception 22), and it's incredibly frustrating how avoidable this is. Developers keep digging this grave because they treat client-side sto",
+    "tags": [
+      "ai",
+      "rust",
+      "startup"
+    ],
+    "url": "https://reddit.com/r/webdev/comments/1se0q22/whats_everyones_obsession_with_storing_everything/",
+    "author": "sjltwo-v10",
+    "score": 754,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1serjad",
+    "source": "reddit",
+    "title": "AI crawlers are chewing through my staging bandwidth now, and the logs are stupid",
+    "summary": "I expected crawler traffic on prod, fine. Public marketing pages, docs, whatever. What caught me off guard was staging on a small SaaS getting hit hard enough taht it showed up on the bill and log volume before it even showed up in app metrics\n\nI pulled a week of server logs after some weird egress ",
+    "tags": [
+      "ai",
+      "startup"
+    ],
+    "url": "https://reddit.com/r/webdev/comments/1serjad/ai_crawlers_are_chewing_through_my_staging/",
+    "author": "NeedleworkerLumpy907",
+    "score": 20,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1sese8r",
+    "source": "reddit",
+    "title": "Recent strange massive traffic spikes across several sites",
+    "summary": "I've been building sites for many years, both with my own small agency, and as a part-time web developer for the University of Cambridge. I'm currently the maintainer for around 20 websites in total. Of those, 3 of them have have had the same sort of incidents in the past month or two.\n\nIn each scen",
+    "tags": [
+      "ai",
+      "web",
+      "systems",
+      "open-source"
+    ],
+    "url": "https://reddit.com/r/webdev/comments/1sese8r/recent_strange_massive_traffic_spikes_across/",
+    "author": "Droces",
+    "score": 8,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1sen9a3",
+    "source": "reddit",
+    "title": "Does your privacy policy actually cover third party pixels? Most devs I talk to are leaving a massive compliance gap.",
+    "summary": "I have been doing privacy audits for clients lately and the same issue keeps coming up. Developers assume a boilerplate privacy policy covers their entire analytics services and marketing  stack. It does not. If you are running Meta Pixel, LinkedIn Insight Tag, GA4, Adroll, and or the TikTok Pixel, ",
+    "tags": [
+      "systems",
+      "security",
+      "data"
+    ],
+    "url": "https://reddit.com/r/webdev/comments/1sen9a3/does_your_privacy_policy_actually_cover_third/",
+    "author": "PhaseDramatic6137",
+    "score": 8,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1serm1y",
+    "source": "reddit",
+    "title": "First subscription stuck between \u201cWaiting for Review\u201d / \u201cIn Review\u201d, app version still \u201cPrepare for Submission\u201d for over a month \ud83d\ude2b",
+    "summary": "I\u2019m dealing with a stuck App Store Connect subscription review state and Apple Developer Support has not resolved it for over a month.\n\nCurrent situation:\n\n\\- First auto-renewable subscription\n\n\\- Original support case opened: Feb 27, 2026\n\n\\- Apple says the first subscription must be submitted toge",
+    "tags": [
+      "ai"
+    ],
+    "url": "https://reddit.com/r/webdev/comments/1serm1y/first_subscription_stuck_between_waiting_for/",
+    "author": "Diligent_Activity995",
+    "score": 3,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1se7264",
+    "source": "reddit",
+    "title": "Why did Heroku launch new features after explicitly announcing no more feature development?",
+    "summary": "The Judoscale team wrote an open letter to Heroku asking for clarity.\n\nHeroku previously announced a switch to a sustaining engineering model, and explained this means no new features will ship.\n\nBut then recently they shipped new features and said this is part of the sustaining engineering model.",
+    "tags": [
+      "ai",
+      "systems"
+    ],
+    "url": "https://reddit.com/r/webdev/comments/1se7264/why_did_heroku_launch_new_features_after/",
+    "author": "thehashimwarren",
+    "score": 49,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1sesh8c",
+    "source": "reddit",
+    "title": "We spent 3 days comparing STT APIs and used this tool to compare",
+    "summary": "I was evaluating Deepgram, AssemblyAI, and Gladia for a voice feature. Number looked similar across all three. Every provider claims best-in-class WER. Gladia open- source's their benchmark methodology but for Deepgram and AssemblyAI, had to compare.\n\nAnd then came across https://compare-stt.com/. I",
+    "tags": [
+      "ai",
+      "systems",
+      "open-source"
+    ],
+    "url": "https://reddit.com/r/webdev/comments/1sesh8c/we_spent_3_days_comparing_stt_apis_and_used_this/",
+    "author": "dikshamishra34",
+    "score": 2,
+    "reading_time_mins": 2,
+    "content_type": "discussion"
+  },
+  {
+    "id": "reddit_1sep9jf",
+    "source": "reddit",
+    "title": "SSR Framework Benchmarks v2: What We Got Wrong, and the Real Numbers",
+    "summary": "SSR Framework Benchmarks v2: What We Got Wrong, and the Real Numbers",
+    "tags": [
+      "general"
+    ],
+    "url": "https://reddit.com/r/webdev/comments/1sep9jf/ssr_framework_benchmarks_v2_what_we_got_wrong_and/",
+    "author": "feross",
+    "score": 3,
+    "reading_time_mins": 3,
+    "content_type": "discussion"
+  }
+]

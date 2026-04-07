@@ -1,0 +1,93 @@
+[
+  {
+    "task_id": "easy",
+    "difficulty": "easy",
+    "item_count": 20,
+    "max_steps": 10,
+    "sources": [
+      "hackernews"
+    ],
+    "recommend_k": 5,
+    "description": "Curate 5 top articles from 20 Hacker News stories for an AI/ML enthusiast.",
+    "profile": {
+      "interests": {
+        "ai": 0.95,
+        "nlp": 0.85,
+        "python": 0.8,
+        "data": 0.7
+      },
+      "preferred_sources": [
+        "hackernews",
+        "arxiv"
+      ],
+      "time_budget_mins": 120,
+      "read_history": [],
+      "skill_level": "intermediate"
+    }
+  },
+  {
+    "task_id": "medium",
+    "difficulty": "medium",
+    "item_count": 50,
+    "max_steps": 20,
+    "sources": [
+      "hackernews",
+      "devto",
+      "arxiv"
+    ],
+    "recommend_k": 10,
+    "description": "Curate 10 items from 50 across HN, DEV.to, and arXiv for a senior engineer with broad interests.",
+    "profile": {
+      "interests": {
+        "ai": 0.9,
+        "web": 0.7,
+        "systems": 0.6,
+        "security": 0.5,
+        "python": 0.75,
+        "cloud": 0.4,
+        "open-source": 0.65,
+        "startup": 0.3
+      },
+      "preferred_sources": [
+        "hackernews",
+        "devto"
+      ],
+      "time_budget_mins": 60,
+      "read_history": [
+        "hn_47672818",
+        "hn_47673541",
+        "hn_47672295"
+      ],
+      "skill_level": "expert"
+    }
+  },
+  {
+    "task_id": "hard",
+    "difficulty": "hard",
+    "item_count": 100,
+    "max_steps": 30,
+    "sources": [
+      "hackernews",
+      "devto",
+      "arxiv",
+      "reddit"
+    ],
+    "recommend_k": 15,
+    "description": "Curate 15 items from 100 across all sources for a beginner with minimal stated preferences. Must infer interests from feedback.",
+    "profile": {
+      "interests": {
+        "rust": 0.5,
+        "systems": 0.4
+      },
+      "preferred_sources": [],
+      "time_budget_mins": 30,
+      "read_history": [
+        "hn_47672818",
+        "hn_47673360",
+        "hn_47672884",
+        "hn_47641472"
+      ],
+      "skill_level": "beginner"
+    }
+  }
+]
